@@ -2,13 +2,18 @@
 
 Department of History, 612 Oldfather Hall, University of Nebraska, Lincoln 68588  
 [jason.heppler@huskers.unl.edu](mailto:jason.heppler@huskers.unl.edu) | (402) 909-1323  
-[http://www.jasonheppler.org](http://www.jasonheppler.org)
+[www.jasonheppler.org](http://www.jasonheppler.org)
 
 ## Current Position ##
 
 *Project Manager*, [William F. Cody Archive](http://codyarchive.org), 2011-Present  
 *Center for Digital Research in the Humanities, University of Nebraska-Lincoln*  
-Key in researching, planning, and managing the William F. Cody Archive. Supervised under- graduate student employees and graduate student interns, organized incoming digital docu- ments, maintained the project wiki. Ensured we met milestones and deadlines, used Basecamp to manage tasks and communicate with the Archive team, and oversaw editorial progress in our editorial management system.
+Key in researching, planning, and managing the William F. Cody Archive.
+Supervised undergraduate student employees and graduate student interns,
+organized incoming digital documents, maintained the project wiki. Ensured we
+met milestones and deadlines, used Basecamp to manage tasks and communicate
+with the Archive team, and oversaw editorial progress in our editorial
+management system.
 
 ## Areas of Research Interest ##
 
@@ -18,14 +23,12 @@ Digital History, North American West, United States, Cold War, Political and Cul
 
 **Doctor of Philosophy in History - In Progress**  
 > University of Nebraska-Lincoln  
-> Committee: Thomas Borstelmann (chair), William Thomas, Margaret Jacobs, Stephen Ramsay  
 > Dissertation: *Computing the Cold War: The Military-Industrial-Academic Complex, the Technological West, and Computers in the National Security State*  
 > Additional Qualifications: *Certificate of Digital Humanities*, awarded 2012
 
 **Master of Arts in History - 2007 to 2009**  
 > University of Nebraska-Lincoln  
-> Advisor: John Wunder  
-> Committee: Douglas Seefeldt, Thomas Gannon  
+> Committee: John Wunder (chair), Douglas Seefeldt, Thomas Gannon  
 > Thesis: *[Framing Red Power: The Trail of Broken T reaties, the American Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/historydiss/21/)*
 > *(Listed among the top most downloaded files from UNL Digital Commons)*
 
@@ -121,8 +124,8 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
 ### Open Source Software ###
 
-  * [H-Stream](https://github.com/hepplerj/HStream): iOS RSS reader for humanities
-  * [FREQr](https://github.com/hepplerj/FREQr): Ruby Word Frequency and Word Cloud Generator
+  * [H-Stream](https://github.com/hepplerj/HStream): iOS RSS reader for the humanities
+  * [FREQr](https://github.com/hepplerj/FREQr): Ruby word frequency and word cloud generator
 
 ### Open Access Writing ###
 
@@ -207,12 +210,16 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
   * Workshop, Open Access, Graduate Student Association, University of Nebraska-Lincoln, October 2011.
   * Workshop, Graduate Teaching Assistant Workshop, Department of History, University of Nebraska-Lincoln, August 2010.
-  
+
 ### Advising ###
-> Interns:
->> Andrew Tully, University of Nebraska-Lincoln, 2012
-> Undergraduate Mentoring:
->> Jared Roehrich, University of Nebraska-Lincoln, 2011-2012
+
+*Interns*
+
+  * Andrew Tully, University of Nebraska-Lincoln, 2012
+
+*Undergraduate Mentoring*
+
+  * Jared Roehrich, University of Nebraska-Lincoln, 2011-2012
 
 ## Service ##
 
