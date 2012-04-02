@@ -29,7 +29,7 @@ Digital History, North American West, United States, Cold War, Political and Cul
 **Master of Arts in History - 2007 to 2009**  
 > University of Nebraska-Lincoln  
 > Committee: John Wunder (chair), Douglas Seefeldt, Thomas Gannon  
-> Thesis: *[Framing Red Power: The Trail of Broken T reaties, the American Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/historydiss/21/)*
+> Thesis: *[Framing Red Power: The Trail of Broken Treaties, the American Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/historydiss/21/)*
 > *(Listed among the top most downloaded files from UNL Digital Commons)*
 
 **Bachelor of Arts in History - 2003 to 2007**  
@@ -148,7 +148,7 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
 ### Academic Conferences and Meetings ###
 
-  * "The William F. Cody Digital Archive," Center for Great Plains Studies Syposium, March 2012, Lincoln, Nebraska.
+  * "The William F. Cody Digital Archive," Center for Great Plains Studies Symposium, March 2012, Lincoln, Nebraska.
   * "The Digital History Seminar," round table, 126th Annual Meeting of the American Historical Association, January 2012, Chicago, Illinois.
   * "The American Indian Movement and South Dakota Politics," George McGovern Conference, November 2011, George McGovern Center for Leadership and Government, Mitchell, South Dakota.
   * "'This Great and Sovereign Right': Eminent Domain, the Cherokee Nation, and Railroad Law, 1880-1890," 50th Annual Conference of the Western History Association, October 2010, Incline Village, Nevada.
@@ -171,7 +171,7 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
   * Participant, Cody Camp, Lincoln, Nebraska, June 2012.
   * Workshop, "Careers in History in the 21st Century," UNL History Department Workshop, December 2011.
-  * Workshop, “Open Access,” Graduate Student Association, University of Nebraska-Lincoln, Oc- tober 2011.
+  * Workshop, “Open Access,” Graduate Student Association, University of Nebraska-Lincoln, October 2011.
   * Workshop, "Building Your C.V. and Utilizing Social Networking for Your Academic Career," HGSA Workshop, September 2011.
   * Participant, Cody Camp, Cody, Wyoming, July 2011.
   * Session, Project Management, University of Nebraska-Lincoln Libraries, March 2011.
@@ -184,7 +184,7 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
   * University Libraries Influence Award, University of Nebraska-Lincoln Libraries, 2010.
   * Dov Ospovat Memorial Award for Distinguished Graduate Research Paper, University of Nebraska-Lincoln, 2009.
-  * Schultz-Werth Award for Oustanding Undergraduate Research Paper, South Dakota State University, 2007.
+  * Schultz-Werth Award for Outstanding Undergraduate Research Paper, South Dakota State University, 2007.
   * Phi Alpha Theta Honor Society, South Dakota State University, 2005- 2007.
 
 ## Teaching ##
@@ -394,4 +394,4 @@ A one-stop location for students doing historical research to locate reliable da
 
 Additional code projects and contributions can be found on [Github](http://github.com/hepplerj).</p>
 
-Updated: 2012-02-27
+Updated: 2012-04-02
