@@ -1,29 +1,30 @@
 # Jason Heppler #
 
+(402) 909-1323 | [jason.heppler@huskers.unl.edu](jason.heppler@huskers.unl.edu) | [@jaheppler](http://twitter.com/jaheppler)  
 Department of History, 612 Oldfather Hall, University of Nebraska, Lincoln 68588  
-[jason.heppler@huskers.unl.edu](mailto:jason.heppler@huskers.unl.edu) | (402) 909-1323  
 [www.jasonheppler.org](http://www.jasonheppler.org)
 
 ## Current Position ##
 
+**Center for Digital Research in the Humanities, University of Nebraska-Lincoln**  
 *Project Manager*, [William F. Cody Archive](http://codyarchive.org), 2011-Present  
-*Center for Digital Research in the Humanities, University of Nebraska-Lincoln*  
-Key in researching, planning, and managing the William F. Cody Archive.
-Supervised undergraduate student employees and graduate student interns,
-organized incoming digital documents, maintained the project wiki. Ensured we
-met milestones and deadlines, used Basecamp to manage tasks and communicate
-with the Archive team, and oversaw editorial progress in our editorial
-management system.
+> Key in researching, planning, and managing the William F. Cody Archive. Supervised undergraduate student employees and graduate student interns, organized incoming digital documents, maintained the project wiki. Ensured we met milestones and deadlines, used Basecamp to manage tasks and communicate with the Archive team, and oversaw editorial progress in our editorial management system.
 
 ## Areas of Research Interest ##
 
-Digital History, North American West, United States, Cold War, Political and Cultural History
+* Digital History and Digital Humanities
+* Public History, Digital Libraries, Digital Archives
+* North American West
+* History of the Cold War
+* History of Science and Technology
+* Political and Cultural History
 
 ## Education ##
 
 **Doctor of Philosophy in History - In Progress**  
 > University of Nebraska-Lincoln  
-> Dissertation: *Computing the Cold War: The Military-Industrial-Academic Complex, the Technological West, and Computers in the National Security State*  
+> Committee: Patrick Jones (chair), Margaret Jacobs, William G. Thomas, James Garza, Stephen Ramsay  
+> Dissertation: *The Silicon Frontier: The Military-Industrial-Academic Complex, Digital Computing, and the Knowledge Economy in the Postwar North American West*  
 > Additional Qualifications: *Certificate of Digital Humanities*, awarded 2012
 
 **Master of Arts in History - 2007 to 2009**  
@@ -41,7 +42,7 @@ Digital History, North American West, United States, Cold War, Political and Cul
 
 ### 1. Research
 
-**University of Nebraska-Lincoln**
+**University of Nebraska-Lincoln**  
 Project Manager, William F. Cody Archive, 2011-present  
 *Center for Digital Research in the Humanities*
 
@@ -80,11 +81,17 @@ Lead Developer, 2008-2010
 *[The Digital History Project](http://digitalhistory.unl.edu)*  
 Served as the designer, developer, oversaw the quality of content on the site, edited video interviews for online posting.
 
-### Grants &amp; Fellowships ###
-#### Internal ####
+## Grants &amp; Fellowships ##
+
+### External ###
+
+* National Science Foundation, Science, Technology, and Society Funding, Division of Social and Economic Sciences, 2012, application in progress.
+* Charles Redd Center for Western Studies, Upper Division and Graduate Student Summer Award, Brigham Young University, 2012, application under review.
+
+### Internal ###
 	
-* Nebraska Humanities Council Mini Grant, James A. Rawley Conference, University of Nebraska- Lincoln, awarded, $800.
-* Plains Humanities Alliance Grant, James A. Rawley Conference, University of Nebraska-Lincoln, awarded, $500.
+* Nebraska Humanities Council Mini Grant, James A. Rawley Conference, University of Nebraska-Lincoln, awarded, $913.
+* Plains Humanities Alliance Grant, James A. Rawley Conference, University of Nebraska-Lincoln, awarded, $300.
 * Sheldon Travel Fund Award, Department of History, University of Nebraska-Lincoln 2010, awarded, $600.
 * Sheldon Fund Award, Department of History, University of Nebraska-Lincoln, 2010, awarded, $380.
 * Graduate Student Travel Fund, Department of History, University of Nebraska-Lincoln, 2009, not funded.
@@ -148,7 +155,7 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
 ### Academic Conferences and Meetings ###
 
-  * "The William F. Cody Digital Archive," Center for Great Plains Studies Symposium, March 2012, Lincoln, Nebraska.
+  * "Digitizing the Buffalo Bill Records," Center for Great Plains Studies Symposium, March 2012, Lincoln, Nebraska.
   * "The Digital History Seminar," round table, 126th Annual Meeting of the American Historical Association, January 2012, Chicago, Illinois.
   * "The American Indian Movement and South Dakota Politics," George McGovern Conference, November 2011, George McGovern Center for Leadership and Government, Mitchell, South Dakota.
   * "'This Great and Sovereign Right': Eminent Domain, the Cherokee Nation, and Railroad Law, 1880-1890," 50th Annual Conference of the Western History Association, October 2010, Incline Village, Nevada.
@@ -215,11 +222,11 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
 *Interns*
 
-  * Andrew Tully, University of Nebraska-Lincoln, 2012
+  * Andrew Tully, William F. Cody Archive, University of Nebraska-Lincoln, 2012.
 
 *Undergraduate Mentoring*
 
-  * Jared Roehrich, University of Nebraska-Lincoln, 2011-2012
+  * Jared Roehrich, William F. Cody Spatial Chronology, University of Nebraska-Lincoln, 2011-2012.
 
 ## Service ##
 
@@ -394,4 +401,4 @@ A one-stop location for students doing historical research to locate reliable da
 
 Additional code projects and contributions can be found on [Github](http://github.com/hepplerj).</p>
 
-Updated: 2012-04-02
+Updated: 2012-04-19
