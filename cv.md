@@ -15,7 +15,7 @@ Department of History, 612 Oldfather Hall, University of Nebraska, Lincoln 68588
 * Digital History and Digital Humanities
 * Public History, Digital Libraries, Digital Archives
 * North American West
-* History of the Cold War
+* Twentieth Century United States
 * History of Science and Technology
 * Political and Cultural History
 
@@ -40,10 +40,10 @@ Department of History, 612 Oldfather Hall, University of Nebraska, Lincoln 68588
 
 ## Appointments Held ##
 
-### 1. Research
+### 1. Research ###
 
 **University of Nebraska-Lincoln**  
-Project Manager, William F. Cody Archive, 2011-present  
+Project Manager, William F. Cody Archive, 2011-2012  
 *Center for Digital Research in the Humanities*
 
 **University of Nebraska-Lincoln**  
@@ -85,8 +85,7 @@ Served as the designer, developer, oversaw the quality of content on the site, e
 
 ### External ###
 
-* National Science Foundation, Science, Technology, and Society Funding, Division of Social and Economic Sciences, 2012, application in progress.
-* Charles Redd Center for Western Studies, Upper Division and Graduate Student Summer Award, Brigham Young University, 2012, application under review.
+* Charles Redd Center for Western Studies, Upper Division and Graduate Student Summer Award, Brigham Young University, 2012, not funded.
 
 ### Internal ###
 	
@@ -147,6 +146,7 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 ### Reviews ###
 
   * Book review, Bradley Shreve, *Red Power Rising: The National Indian Youth Council and the Origins of Native Activism*, in *South Dakota History*, Summer 2012.
+  * Manuscript review, Frederick W. Gibbs and Trevor Owens, "The Hermeneutics of Data and Historical Writing," in *Writing History in the Digital Age*. Review comments can be found at [http://writinghistory.trincoll.edu/data/hermeneutics-of-data-and-historical-writing-gibbs-owens/#comment-707](http://writinghistory.trincoll.edu/data/hermeneutics-of-data-and-historical-writing-gibbs-owens/#comment-707).
   * Digital tool review, "Google Earth for Historians," in [Digital History](http://digitalhistory.unl.edu/t-reviews/), September 2010.
   * Book review, Joseph Trimbach, *American Indian Mafia: An FBI Agent's True Story about Wounded Knee, Leonard Peltier, and the American Indian Movement*, in *South Dakota History*, Spring 2009.
   * Digital tool review, "TokenX as a Historical Research Tool," with Brent M. Rogers, in [Digital History](http://digitalhistory.unl.edu/t-reviews/), July 2009.
@@ -172,11 +172,11 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
 ### Invited Talks ###
 
+  * Teaching with Technology, Nebraska Wesleyan University, June 2012, Lincoln, Nebraska.
   * Invited speaker, History Club Graduate School Symposium, South Dakota State University, October 2007, Brookings, South Dakota.
 
 ### Professional Development ###
 
-  * Participant, Cody Camp, Lincoln, Nebraska, June 2012.
   * Workshop, "Careers in History in the 21st Century," UNL History Department Workshop, December 2011.
   * Workshop, “Open Access,” Graduate Student Association, University of Nebraska-Lincoln, October 2011.
   * Workshop, "Building Your C.V. and Utilizing Social Networking for Your Academic Career," HGSA Workshop, September 2011.
@@ -222,7 +222,8 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
 *Interns*
 
-  * Andrew Tully, William F. Cody Archive, University of Nebraska-Lincoln, 2012.
+  * Andrew Tully, William F. Cody Archive, University of Nebraska-Lincoln, Spring 2012.
+  * JP Obley, Center for Digital Research in the Humanities, University of Nebraska-Lincoln, Summer 2012.
 
 *Undergraduate Mentoring*
 
@@ -273,7 +274,7 @@ The Buffalo Bill Project is a digital research project adjunct to the Papers of 
 [FREQr](http://github.com/hepplerj/FREQr), 2011  
 A command line word frequency generator written in Ruby.
 
-[The Digital History Project](), 2009-2011  
+[The Digital History Project](http://digitalhistory.unl.edu), 2009-2011  
 Designed to provide resources for scholars and the public to learn more about Digital History.
 
 POND: Participating Online In-Depth: A Digital History Lab, 2010  
@@ -401,4 +402,4 @@ A one-stop location for students doing historical research to locate reliable da
 
 Additional code projects and contributions can be found on [Github](http://github.com/hepplerj).</p>
 
-Updated: 2012-04-19
+Updated: 2012-07-24
