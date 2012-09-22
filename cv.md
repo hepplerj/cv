@@ -1,14 +1,19 @@
 # Jason Heppler #
 
-(402) 909-1323 | [jason.heppler@huskers.unl.edu](jason.heppler@huskers.unl.edu) | [@jaheppler](http://twitter.com/jaheppler)  
-Department of History, 612 Oldfather Hall, University of Nebraska, Lincoln 68588  
+402-909-1323  
+jason.heppler@gmail.com  
+@jaheppler
+
+Department of History  
+612 Oldfather Hall  
+University of Nebraska, Lincoln 68588  
 [www.jasonheppler.org](http://www.jasonheppler.org)
 
 ## Current Position ##
 
 **Center for Digital Research in the Humanities, University of Nebraska-Lincoln**  
 *Project Manager*, [William F. Cody Archive](http://codyarchive.org), 2011-Present  
-> Key in researching, planning, and managing the William F. Cody Archive. Supervised undergraduate student employees and graduate student interns, organized incoming digital documents, maintained the project wiki. Ensured we met milestones and deadlines, used Basecamp to manage tasks and communicate with the Archive team, and oversaw editorial progress in our editorial management system.
+Key in researching, planning, and managing the William F. Cody Archive. Supervised undergraduate student employees and graduate student interns, organized incoming digital documents, maintained the project wiki. Ensured we met milestones and deadlines, used Asana to manage tasks and communicate with the Archive team, and oversaw editorial progress in our custom editorial management system.
 
 ## Areas of Research Interest ##
 
@@ -16,27 +21,27 @@ Department of History, 612 Oldfather Hall, University of Nebraska, Lincoln 68588
 * Public History, Digital Libraries, Digital Archives
 * North American West
 * Twentieth Century United States
+* Cold War
 * History of Science and Technology
-* Political and Cultural History
 
 ## Education ##
 
 **Doctor of Philosophy in History - In Progress**  
-> University of Nebraska-Lincoln  
-> Committee: Patrick Jones (chair), Margaret Jacobs, William G. Thomas, James Garza, Stephen Ramsay  
-> Dissertation: *The Silicon Frontier: The Military-Industrial-Academic Complex, Digital Computing, and the Knowledge Economy in the Postwar North American West*  
-> Additional Qualifications: *Certificate of Digital Humanities*, awarded 2012
+University of Nebraska-Lincoln  
+Committee: Patrick Jones (chair), Margaret Jacobs, William G. Thomas, James Garza, Stephen Ramsay  
+Dissertation: *The Silicon Frontier: The Military-Industrial-Academic Complex, Digital Computing, and the Knowledge Economy in the Postwar North American West*  
+Additional Qualifications: *Certificate of Digital Humanities*, awarded 2012
 
 **Master of Arts in History - 2007 to 2009**  
-> University of Nebraska-Lincoln  
-> Committee: John Wunder (chair), Douglas Seefeldt, Thomas Gannon  
-> Thesis: *[Framing Red Power: The Trail of Broken Treaties, the American Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/historydiss/21/)*
-> *(Listed among the top most downloaded files from UNL Digital Commons)*
+University of Nebraska-Lincoln  
+Committee: John Wunder (chair), Douglas Seefeldt, Thomas Gannon  
+Thesis: *[Framing Red Power: The Trail of Broken Treaties, the American Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/historydiss/21/)*
+*(Listed among the top most downloaded files from UNL Digital Commons)*
 
 **Bachelor of Arts in History - 2003 to 2007**  
-> South Dakota State University  
-> Thesis: *"We lit a fire across Indian Country": The American Indian Movement and the Roots of Red Power*  
-> Minor: Economics
+South Dakota State University  
+Thesis: *"We lit a fire across Indian Country": The American Indian Movement and the Roots of Red Power*  
+Minor: Economics
 
 ## Appointments Held ##
 
@@ -65,6 +70,7 @@ Museum Aide, 2005-2007
 **University of Nebraska-Lincoln**  
 Teaching Assistant, 2008-2010  
 *Department of History*  
+
 > African Culture and Civilization, Prof. Dawne Curry, Fall 2008  
 > U.S. since 1877, Prof. William Thomas, Spring 2009  
 > U.S. before 1877, Prof. Brenden Rensink, Fall 2010  
@@ -110,13 +116,13 @@ Served as the designer, developer, oversaw the quality of content on the site, e
 
 ### Journal Articles ###
 
-* “William Cody and the Progressive Image of American Indians,” with Douglas Seefeldt, *Journal of the Gilded Age and Progressive Era*, under review.
+* “William Cody and the Progressive Image of American Indians,” digital history project, *Journal of the Gilded Age and Progressive Era*, under review.
 * "'This Great and Sovereign Right': Eminent Domain, the Cherokee Nation, and Railroad Law, 1880-1890," *Great Plains Quarterly*, under review.
 
 ### Electronic Books ###
 
 * Contributor, "The Programming Historian," second edition, eds. William Turkel and Adam Crymble, NiCHE - Network in Canadian History and Environment.
-* [The Rubyist Historian: Ruby Fundamentals for Humanist Scholars](http://www.jasonheppler.org/the-rubyist-historian-the-series.html). 2011.
+* [The Rubyist Historian: Ruby Fundamentals for Humanist Scholars](http://hepplerj.github.com/rubyist-historian/). 2011.
 
 ### Digital ###
 
@@ -135,9 +141,10 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
 ### Open Access Writing ###
 
+  * Contributing Writer, [GradHacker](http://gradhacker.org), 2012-present
   * Author, [JasonHeppler.org](http://jasonheppler.org), 2008-present
   * Contributing Writer, [Digital Frontiers: A WHA Digital Workshop](http://whadigitalfrontiers.wordpress.com/), 2010
-  * Contributing Writer, [Doing Digital History](http://digitalhistory.unl.edu/blog/), 2009-present
+  * Contributing Writer, [Doing Digital History](http://digitalhistory.unl.edu/blog/), 2009-2011
 
 ### Digital Tools for Research and Learning ###
 
@@ -207,7 +214,7 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 ### Workshops ###
 
   * "Building Your C.V. and Utilizing Social Networking for Your Academic Career," workshop co-leader, History Graduate Students Association Workshop, September 2011.
-  * "Introduction to XML/XSLT," workshop leader, University of Nebraska-Lincoln, HIST 970: Digital History Seminar, Spring 2011.
+  * "Introduction to XML and XSLT," workshop leader, University of Nebraska-Lincoln, HIST 970: Digital History Seminar, February 2011.
 
 ### Discussion Leader ###
 
@@ -223,7 +230,7 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 *Interns*
 
   * Andrew Tully, William F. Cody Archive, University of Nebraska-Lincoln, Spring 2012.
-  * JP Obley, Center for Digital Research in the Humanities, University of Nebraska-Lincoln, Summer 2012.
+  * J.P. Obley, Center for Digital Research in the Humanities, University of Nebraska-Lincoln, Summer 2012.
 
 *Undergraduate Mentoring*
 
@@ -233,8 +240,9 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
 ### Department ###
 
-  * Co-Chair, Poster Committee, James A. Rawley Conference in the Humanities, 2011-2012.
-  * Vice President, History Graduate Students' Association, University of Nebraska-Lincoln, 2010-2011.
+  * Member, Digital Outreach Committee, History Graduate Students' Association, 2012-present
+  * Co-Chair, Poster Committee, James A. Rawley Conference in the Humanities, 2011-2012
+  * Vice President, History Graduate Students' Association, University of Nebraska-Lincoln, 2010-2011
   * Assistant Director, Sixth Annual James A. Rawley Conference in the Humanities, University of Nebraska-Lincoln, 2010-2011
   * Member, Program Committee, James A. Rawley Conference in the Humanities, University of Nebraska-Lincoln, 2009, 2010, 2011
   * Member, Digital Outreach Committee, History Graduate Students' Association, 2007-2010
@@ -248,7 +256,7 @@ See more on my [Projects](http://projects.jasonheppler.org) page.
 
 ### University ###
 
-  * Member, UNL Libraries Graduate Student Advisory Board, University of Nebraska-Lincoln, 2010-present
+  * Member, UNL Libraries Graduate Student Advisory Board, University of Nebraska-Lincoln, 2010-2011
 
 ### Professional ###
 
@@ -402,4 +410,4 @@ A one-stop location for students doing historical research to locate reliable da
 
 Additional code projects and contributions can be found on [Github](http://github.com/hepplerj).</p>
 
-Updated: 2012-07-24
+Updated: 2012-09-21
