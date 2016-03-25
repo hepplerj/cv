@@ -1,4 +1,3 @@
-This document is Lincoln Mullen's academic CV, encoded in LaTeX. 
+# Jason Heppler's CV
 
-A PDF of this CV is available on my [website](http://lincolnmullen.com/cv/).
-
+This document is Jason Heppler's academic CV. A PDF of the CV is available on my [website](http://jasonheppler.org/downloads/pdf/jah-vita.pdf).

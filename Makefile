@@ -1,4 +1,4 @@
-jah-cv.pdf : jah-cv.tex web-cv.tex
+jah-vita.pdf : jah-cv.tex web-cv.tex
 	pdflatex jah-cv.tex
 	latexmk -c
 
