@@ -7,9 +7,9 @@ web-cv.tex : web-cv.md
 
 clean :
 	latexmk -c
-	rm -f jah-cv.pdf
+	rm -f jah-vita.pdf
 
 deploy :
-	scp jah-cv.pdf reclaim:~/public_html/jasonheppler.org/downloads/pdf/
+	scp jah-vita.pdf reclaim:~/public_html/jasonheppler/downloads/pdf/
 
 .PHONY : clean deploy
