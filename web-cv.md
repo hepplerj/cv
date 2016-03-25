@@ -26,7 +26,7 @@ Teaching / Research Assistant, Department of History (2008--2010)
 # Education
 
 **PhD, History**, University of Nebraska-Lincoln (2016)    
-*Dissertation*: "Machines in the Valley: Community, Urban Change, and Environmental Politics in Silicon Valley, 1945--1990"
+*Dissertation*: "Machines in the Valley: Community, Urban Change, and Environmental Politics in Silicon Valley, 1945--1990"  
 *Committee*: Patrick Jones (chair), William G. Thomas, Margaret Jacobs, James Garza, Stephen Ramsay  
 *Fields*: North American West; U.S. Political, Social, and Cultural History, 1815--Present; Modern Latin America (specialization in Mexico)
 
