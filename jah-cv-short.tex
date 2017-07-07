@@ -1,0 +1,93 @@
+%Jason A. Heppler | jason@jasonheppler.org | http://jasonheppler.org
+
+\documentclass[11pt]{article}
+\usepackage{microtype}
+\frenchspacing
+\usepackage[letterpaper,margin=1in]{geometry}
+\setlength\parindent{0in}
+\setlength\parskip{6pt}
+\setlength{\emergencystretch}{3em}
+\usepackage[osf,sc]{mathpazo}
+\usepackage{inconsolata}
+\usepackage{fancyhdr}
+\pagestyle{plain}
+\frenchspacing
+
+%%%------------------------------------------------------------------------
+%%% Metadata
+%%%------------------------------------------------------------------------
+\def\myauthor{Jason Heppler}
+\def\mytitle{Vita}
+\def\mycopyright{\myauthor}
+\def\mybibliostyle{plain}
+\def\myaffiliation{University of Nebraska at Omaha}
+\def\myaddress{Center for Digital Engagement}
+\def\myemail{jason@jasonheppler.org}
+\def\myweb{http://jasonheppler.org}
+\def\myphone{(402) 909-1323}
+
+\def\myaffiliation{University of Nebraska at Omaha}
+\def\myauthor{Jason Heppler}
+\date{}
+\def\mykeywords{Jason, Heppler, Jason Heppler, Vita, CV, Resume, History}
+
+% HEADINGS
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\sectionfont{\mdseries\Large}
+\subsectionfont{\mdseries\scshape\normalsize}
+\subsubsectionfont{\bfseries\upshape\normalsize}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+% disables chapter, section and subsection numbering
+\setcounter{secnumdepth}{-1}
+\usepackage[usenames,dvipsnames]{xcolor}
+% tightlist fix
+\def\tightlist{}
+
+% PDF SETUP
+\PassOptionsToPackage{hyphens}{url}\usepackage[hidelinks, breaklinks, pdftex, pdftitle={Jason A. Heppler - CV}, pdfauthor={Jason A. Heppler}]{hyperref}
+\hypersetup{
+  colorlinks   = true,
+  urlcolor    = black 
+}
+
+\usepackage[T1]{fontenc}
+
+% DOCUMENT
+\begin{document}
+\thispagestyle{fancy}
+\fancyfoot{}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+%%% The next line will put the date revised in footer of first page
+\rfoot{\scriptsize Current as of \today}
+
+\hfill\hfill\hfill
+\hfill\hfill\hfill
+\hfill\hfill\hfill
+\hfill\hfill\hfill
+%%%------------------------------------------------------------------------
+%%% Address and contact block
+%%%------------------------------------------------------------------------
+\begin{minipage}[t]{1.4in}
+  \flushleft{\scriptsize  \texttt{\href{mailto:jason@jasonheppler.org}{jason@jasonheppler.org}}} \\
+  \vspace{-0.065in}{\scriptsize  \url{http://jasonheppler.org}}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{1.9in}
+  \flushleft{{\scriptsize {UNO Libraries \& Dept. of History} \\ University of Nebraska at Omaha \\ 6001 Dodge Street \\ \vspace{-0.05in} 
+      Omaha, NE 68182}}
+\end{minipage}
+
+\vskip 0.5in
+
+\noindent{\huge {\textsc{jason a. heppler, ph.d.}}}
+
+\vskip 0.05in
+
+\input{web-cv-short}
+
+\end{document}
