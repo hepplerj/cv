@@ -7,8 +7,6 @@ title: "Jason A. Heppler - CV"
 
 ## Academic Appointments
 
-<!--**Director**, Center for Digital Engagement, University of Nebraska at Omaha Libraries (2017--*present*) -->
-
 **Digital Engagement Librarian**, University of Nebraska at Omaha Libraries (2017--*present*)
 
 **Assistant Professor of History (by courtesy)**, University of Nebraska at Omaha (2017--*present*)
@@ -30,10 +28,6 @@ title: "Jason A. Heppler - CV"
 \vspace{0.8cm}
 
 ## Major Affiliations and Fellowships
-
-<!--
-**Faculty Fellow**, Center for Great Plains Studies, Lincoln, Nebraska (2018--*present*)
--->
 
 **Affiliate Faculty**, Center for Urban Sustainability, University of Nebraska at Omaha (2017--*present*) 
 
@@ -68,26 +62,7 @@ Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/histor
 
 # Research
 
-<!--
-### Books
-
-*Suburban By Nature: Nature, Community, and the Making of Silicon Valley, 1945-1990*, under contract with the University of Oklahoma Press.
-
-Co-editor, with Rebecca Wingo and Paul Schadewald, *Community Engagement and Digital Humanities*, under contract with the University of Minnesota Press.
-
-Co-editor, with Lindsey Wieck, *California Rising: Space, Place, and
-Community in Northern California*, under contract with the University of
-California Press.
--->
-
 ### Journal Articles
-
-<!--
-"Fighting for the Green City: Pollution and the Politics of Space in Silicon Valley," *Urban History Review*, under review.
-
-"Humanities Data as Socially Just," with Thomas Padilla and Miriam
-Posner, *Digital Humanities Quarterly*.
--->
 
 "Green Dreams, Toxic Legacies: Toward a Digital Political Ecology of Silicon Valley," *International Journal of Humanities and Arts Computing*, accepted for publication.
 
@@ -197,14 +172,6 @@ the Modern Landscape," in *The Digital History Project*, February 2008.
 
 # Community Outreach and Engagement
 
-<!--
-**Founder** and **Core Team**, *Open Omaha*, Omaha, Nebraska (2017-*present*). I helped found the
-Open Omaha project, a volunteer brigade advocating for open government,
-open data, and civic engagement. *Open Omaha* focuses on the needs of the
-community and leverages design, technology, and open data to improve
-quality of life in our city.
--->
-
 **Organizer** and **Project Lead**, *[Mozilla Global Sprint 2017](https://mozilla.github.io/global-sprint/)*, Omaha, Nebraska (2017). I coordinated and hosted Global Sprint 2017 to bring together scientists, educators, artists, engineers, and others to hack and build projects for a healthy internet. We focused our project around [Open Omaha](http://github.com/open-omaha/).
 
 **Project Lead**, *Mobile Digitization for Rural Community Archives*,
@@ -222,10 +189,6 @@ Federation and their Records Transparency and Accountability Interest
 Group, the Council on Library and Information Resources, the
 National Digital Stewardship Alliance, Data Refuge, and the Mozilla
 Science Lab.
-
-<!--
-**Consultant**, *Making Invisible Histories Visible*, Omaha, Nebraska (2017). An annual event working with twenty-four high school freshman from Omaha Public Schools to research, digitize, and present on the history of Omaha. 
--->
 
 **Presenter**, *Information Exchange*, Omaha, Nebraska (2017). An event devoted to helping communities locate and strategize methods to provide better access to information, generate ideas about what libraries are and how knowledge can be shared within a community to improve the lives of its citizens.
 
@@ -250,10 +213,6 @@ History Club Graduate School Symposium, South Dakota State University, October 2
 "Alternative Academic Careers," GradHacker Podcast, February 2013.
 
 # Conference Papers, Talks, and Workshops
-
-<!--
-Software Carpentry Workshop, University of Nebraska at Omaha, February 2018, Omaha, Nebraska.
--->
 
 "*Oskate Wicasa*, Progressive Thought, and the Digital Publics of Buffalo Bill's Wild West," Western Historical Association, November 2017, San Diego, California.
 
@@ -493,12 +452,6 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
 # Teaching
 
-<!--
-*NEH Summer Institute on Advanced Topics in the Digital Humanities*
-
--   Course Design and the Pedagogy of Digital Humanities, Macalester College, St. Paul, Minnesota (June 2018)
--->
-
 *Digital Humanities Summer Institute*
 
 -   R, Interactive Graphics, and Data Visualization for the Humanities, with Lincoln Mullen (June 2016)
@@ -708,6 +661,8 @@ Digital Content Advisory Board, *[The American Yawp](http://americanyawp.com)* T
 Member, Technology Committee, Western History Association, 2010--*present*.
 
 ### Community Service
+
+Member, Bike Omaha Network Committee, LiveWell, Omaha, Nebraska, 2017--*present*
 
 Graduate Student Volunteer, History Harvest, Nebraska Public Television,
 University of Nebraska-Lincoln, Lincoln, Nebraska, 2010.
