@@ -9,7 +9,7 @@ Digital Engagement Librarian, UNO Libraries, University of Nebraska at Omaha (20
 
 Assistant Professor of History (by courtesy), University of Nebraska at Omaha (2017--present)
 
-Researcher, Spatial History Project, Stanford University (2017--present)
+Affiliate Faculty, Center for Urban Sustainability, University of Nebraska at Omaha (2017--present)
 
 # Education
 
@@ -21,21 +21,22 @@ Researcher, Spatial History Project, Stanford University (2017--present)
 
 # Selected Publications
 
-"Green Dreams, Toxic Legacies: A Digital Political Ecology of Silicon Valley," *International Journal of Humanities and Arts Computing*, forthcoming.
+*Suburban by Nature: Environmental Politics and the Imagining of Silicon Valley*. Norman: University of Oklahoma Press, proposal under review.
+
+"Green Dreams, Toxic Legacies: Toward a Digital Political Ecology of Silicon Valley," *International Journal of Humanities and Arts Computing* vol. 11, no. 1 (March 2017): 68--85. DOI: 10.3366/ijhac.2017.0179
 
 "A National Monument," co-author with Douglas Seefeldt, in *The Companion to Custer and the Little Big Horn*, edited by Brad Lookingbill. Hoboken: Wiley and Sons, 2015.
 
 "[Crowdsourcing Public Digital History](http://tah.oah.org/content/crowdsourcing-digital-public-history/)," co-author with Gabriel Wolfenstein, *The American Historian*, March 2015.
 
-"[A Call to Redefine Historical Scholarship in the Digital Turn](http://journalofdigitalhumanities.org/1-4/a-call-to-redefine-historical-scholarship-in-the-digital-turn/)," co-author with Alex Galarza and Douglas Seefeldt, *Journal of Digital Humanities*,
-December 2012.
-
 # Select Presentations
+
+"Mobile Rural Archives Lab," LYRASIS Member Summit, October 2017, Philadelphia, Pennsylvania.
+
+"Mapping Silicon Valley" Digital Humanities 2017, August 2017, Montreal, Canada.
+
+"Digital History, Publics, and Community Engagement," *Information Exchange*, March 2017, Omaha, Nebraska.
 
 "Using Maps and Metadata to Teach the History of Silicon Valley," Third Annual Academic Technology Expo, Stanford University, October 2016, Stanford, California.
 
 "From the Laptop to the Archive: Managing Research Data in the Humanities," October 2015, Digital Library Federation Forum, October 2015, Vancouver, British Columbia, Canada.
-
-"Mapping Silicon Valley's Environment: Deep Maps and Urban Environmental History" 55th Annual Conference of the Western History Association, October 2015, Portland, Oregon.
-
-"The Graduation Threshold: A Discussion on Bridging the Gap from Graduation to Employment," co-organizer and round table discussant with Elaine Nelson, Leisl Carr-Childers, Sarah Keyes, and Elise Boxer, 55th Annual Conference of the Western History Association, October 2015, Portland, Oregon.

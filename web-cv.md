@@ -7,11 +7,11 @@ title: "Jason A. Heppler - CV"
 
 ## Academic Appointments
 
-**Digital Engagement Librarian**, University of Nebraska at Omaha Libraries (2017--*present*)
+**Assistant Professor, Digital Engagement Librarian**, University of Nebraska at Omaha Libraries (2017--*present*)
 
 **Assistant Professor of History (by courtesy)**, University of Nebraska at Omaha (2017--*present*)
 
-\vspace{.3cm}
+\vspace{.4cm}
 
 **Academic Technology Specialist**, [Department of History](http://history.stanford.edu) and [Center for Interdisciplinary Digital Research](http://cidr.stanford.edu) (CIDR), Stanford University (2013--2016)
 
@@ -19,37 +19,51 @@ title: "Jason A. Heppler - CV"
 
 **Lecturer**, Department of History, Stanford University (2014--2016)
 
-\vspace{.3cm}
+\vspace{.4cm}
 
 **Project Manager**, [William F. Cody Archive](http://codyarchive.org), Center for Digital Research in the Humanities (CDRH), University of Nebraska-Lincoln (2011--2013)
 
 **Digital Research Editor**, Buffalo Bill Center for the West, Cody, Wyoming, University of Nebraska-Lincoln (2011--2013)
 
-\vspace{0.8cm}
+\vspace{0.2cm}
 
 ## Major Affiliations and Fellowships
 
-**Affiliate Faculty**, Center for Urban Sustainability, University of Nebraska at Omaha (2017--*present*) 
+**Digital Humanities Advisor**, "What is the Midwest?," Newberry Library, Chicago, IL (2017--*present*)
+
+**Volunteer researcher**, *Data for Democracy* (2017--*present*)
+
+**Community Representative**, Digital Public Library of America
+(2017--*present*)
+
+**Affiliate Faculty**, Center for Urban Sustainability, University of Nebraska at Omaha (2017--*present*)
 
 **Researcher**, Spatial History Project, Stanford University (2017--*present*)
 
-\vspace{0.8cm}
+\vspace{0.2cm}
 
 ## Editorial Appointments
 
-Editor, [Silicon Valley Historical](http://svhistorical.org) (2016--*present*)
+**Editor**, [Silicon Valley Historical](http://svhistorical.org) (2016--*present*)
 
-Digital Editor, *[The Middle West Review](https://uimiddle.wordpress.com/)*, University of Nebraska Press (2014--*present*)
+**Editorial Board**, *Studies in Midwestern History*, Midwestern History Association (2017--*present*)
+
+**Editorial Board**, *[The Middle West Review](https://uimiddle.wordpress.com/)*, University of Nebraska Press (2014--*present*)
+
+**Digital Content Advisory Board**, *[The American Yawp](http://www.americanyawp.com/)* (2014--*present*)
+
+\newpage
 
 # Areas of Research and Teaching
 
-North American West $\cdot$ Digital History $\cdot$ Environmental History $\cdot$ Urban and Suburban History $\cdot$ Urban Sustainability $\cdot$ Political History $\cdot$ Post-1945 U.S. History $\cdot$ Public History $\cdot$ Place-Based Histories $\cdot$ Games and Learning $\cdot$ Data Visualization $\cdot$ Computational History
+North American West $\cdot$ Digital History $\cdot$ Environmental History $\cdot$ Urban and Suburban History $\cdot$ Urban Sustainability $\cdot$ Urban Planning $\cdot$ Political History $\cdot$ Post-1945 U.S. History $\cdot$ Public History $\cdot$ Place-Based Histories $\cdot$ Games and Learning $\cdot$ Data Visualization $\cdot$ Computational History
 
 # Education
 
 **PhD, History**, University of Nebraska-Lincoln (2016)    
 *Dissertation*: "[Machines in the Valley: Community, Urban Change, and Environmental Politics in Silicon Valley, 1945--1990](http://digitalcommons.unl.edu/historydiss/86/)"  
 *Committee*: Patrick Jones (chair), William G. Thomas, Margaret Jacobs, James Garza, Stephen Ramsay  
+*Examination Fields*: North American West with Douglas Seefeldt, United States History 1776--2008 with Thomas Borstelmann, Modern Latin America with James Garza
 
 **MA, History**, University of Nebraska-Lincoln (2009)  
 *Thesis*: "[Framing Red Power: The Trail of Broken Treaties, the American
@@ -62,14 +76,35 @@ Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/histor
 
 # Research
 
+### Books
+
+*Suburban by Nature: Silicon Valley and the Transformation of American Environmental Politics*. Norman: University of Oklahoma Press, under contract.
+
+*Digital Community Engagement: Partnering Communities with the Academy*. Co-editor with Rebecca Wingo and Paul Schaudenwald. St. Paul, MN: Lever Press, under contract.
+
+<!--
+### Journal Editing
+
+Guest editor. "Digital Humanities and Social Justice." Special issue, *Digital Humanities Quarterly*.
+-->
+
 ### Journal Articles
 
-"Green Dreams, Toxic Legacies: Toward a Digital Political Ecology of Silicon Valley," *International Journal of Humanities and Arts Computing*, accepted for publication.
+<!--
+"Open Data, Information Justice, and Democratic Society," *Journal of Librarianship and Scholarly Communication* 2017 <>.
+
+"Preserving Nature to Preserve Health: Dorothy Erskine, California's Conservationist," Pacific Historical Review (forthcoming).
+
+"Field Notes: Blogwest," with Michael Childers and Kent Blansett, *Western Historical Quarterly* (forthcoming).
+-->
+
+"Teaching Data Literacy for Civic Engagement: Resources for Data Capture and Organization," co-author with Brandon Locke, *KULA: Knowledge Creation, Dissemination, and Preservation Studies* (forthcoming, Fall 2018).
+
+"Green Dreams, Toxic Legacies: Toward a Digital Political Ecology of Silicon Valley," *International Journal of Humanities and Arts Computing* vol. 11, no. 1 (March 2017): 68--85. DOI: 10.3366/ijhac.2017.0179
 
 "[Crowdsourcing Public Digital History](http://tah.oah.org/content/crowdsourcing-digital-public-history/)," co-author with Gabriel Wolfenstein, *The American Historian*, March 2015.
 
-"[A Call to Redefine Historical Scholarship in the Digital Turn](http://journalofdigitalhumanities.org/1-4/a-call-to-redefine-historical-scholarship-in-the-digital-turn/)," co-author with Alex Galarza and Douglas Seefeldt, *Journal of Digital Humanities*,
-December 2012.
+"[A Call to Redefine Historical Scholarship in the Digital Turn](http://journalofdigitalhumanities.org/1-4/a-call-to-redefine-historical-scholarship-in-the-digital-turn/)," co-author with Alex Galarza and Douglas Seefeldt, *Journal of Digital Humanities*, December 2012.
 
 ### Book Chapters
 
@@ -79,6 +114,12 @@ December 2012.
 
 "The American Indian Movement and South Dakota Politics," in *The Plains Political Tradition*, edited by Jon Lauck, John E. Miller, and Donald Simmons. Pierre, SD: South Dakota State Historical Society Press, 2011, 267--287.
 
+### Other Writing (essays, op-eds, whitepapers)
+
+"[How Silicon Valley Industry Polluted the Sylvan California Dream](https://theconversation.com/how-silicon-valley-industry-polluted-the-sylvan-california-dream-85810)," essay, *The Conversation*, November 15, 2017.
+
+"Arguing with Digital History," working group white paper, Roy Rosenzweig Center for History and New Media, George Mason University, November 13, 2017 <http://rrchnm.org/argument-white-paper/>.
+
 ### Electronic Books
 
 *[The Rubyist Historian: Ruby Fundamentals for Humanities Scholars](http://hepplerj.github.io/rubyist-historian/)*. doi: 10.5281/zendo.9987.
@@ -87,9 +128,9 @@ December 2012.
 
 [Machines in the Valley: Growth, Conflict, and Environmental Politics in Silicon Valley](http://dissertation.jasonheppler.org), digital history, 2015--*present*.
 
-Member, Advisory Board, American Indian Digital History Project, 2014--*present*.
+Technical Director, American Indian Digital History Project, 2017--*present*.
 
-Member, Digital Content Advisory Board, *[The American Yawp](http://www.americanyawp.com/)*, 2014--*present*.
+Member, Advisory Board, American Indian Digital History Project, 2014--*present*.
 
 Project Manager, [William F. Cody Archive](http://codyarchive.org/), Center for Digital Research in the Humanities, University of Nebraska-Lincoln, 2011--2013.
 
@@ -119,7 +160,7 @@ Contributor, [Doing Digital History](http://digitalhistory.unl.edu/), 2009--2010
 
 ### Media
 
-Co-host, [Overanalyze](http://overanalyze.fireside.fm), podcast, with Robert Jordan and Andy Wilson, 2016--*present*.
+Co-host, [Overanalyze](http://overanalyze.fireside.fm), podcast, with Robert Jordan and Andy Wilson, 2016--2017.
 
 Co-founder, [FiddlyFM](http://fiddly.fm), 2015--2017.
 
@@ -127,42 +168,44 @@ Co-host, [The First Draft Podcast](http://www.fiddly.fm/firstdraft/), with Elija
 
 ### Reviews
 
-Digital history review, State Historical Society of North Dakota, *North Dakota: People Living on the Land* in *The Public Historian*, forthcoming 2017. 
+Review of Andrew Busch, *City in a Garden: Environmental Transformations and Racial Justice in Twentieth-Century Austin* (University of North Carolina Press), in *Environmental History* (forthcoming, Fall 2018).
 
-Digital history review, Georgia Tech Research Institute and eHistory.org, *US News Map* in the *Journal of American History*, forthcoming 2017.
+Digital history review of *Mapping Inequality: Redlining in New Deal America* and *Renewing Inequality: Family Displacements through Urban Renewal*, in *American Panorama: An Atlas of United States History* (University of Richmond), in *American Quarterly* (forthcoming, Fall 2018).
 
-Digital history review, University of Richmond, *American Panorama: An Atlas of United States History* in the *Journal of American History*, forthcoming 2017. 
+Digital history review of Jay Taylor, *Follow the Money: A Spatial Historty of In-Lieu Programs for Western Federal Lands* (Stanford Spatial History Project), in *Western Historical Quarterly* (forthcoming, Fall 2018).
 
-Book review, Bradley Shreve, *Red Power Rising: The National Indian Youth
-Council and the Origins of Native Activism*, in *South Dakota History*, Spring
-2012.
+Review of Pamela Riney-Kehrberg, *The Nature of Childhood: An Environmental History of Growing Up in America since 1865* (University Press of Kansas), in *Middle West Review* (forthcoming, Spring 2018).
 
-Digital tool review, "Google Earth for Historians," in *[The Digital History
-Project](http://digitalhistory.unl.edu/t-reviews/geheppler.php)*, Summer 2010.
+Digital history review of *American Panorama: An Atlas of United States History* (University of Richmond), in *Journal of American History* (March 2017), DOI: 10.1093/jahist/jaw624.
 
-Book review, Joseph Trimbach, *American Indian Mafia: An FBI Agent's True Story
-about Wounded Knee, Leonard Peltier, and the American Indian Movement*, in
-*South Dakota History*, Spring 2009.
+Digital history review of *North Dakota: People Living on the Land* (State Historical Society of North Dakota), in *The Public Historian* (May 2017), DOI: 10.1525/tph.2017.39.2.104.
+
+Review of Bradley Shreve, *Red Power Rising: The National Indian Youth Council and the Origins of Native Activism* (University of Oklahoma Press), in *South Dakota History* (Spring 2012).
+
+Digital tool review, "Google Earth for Historians," in *[The Digital History Project](http://digitalhistory.unl.edu/t-reviews/geheppler.php)* (Summer 2010).
+
+Review of Joseph Trimbach, *American Indian Mafia: An FBI Agent's True Story about Wounded Knee, Leonard Peltier, and the American Indian Movement* (Outskirts Press), in *South Dakota History* (Spring 2009).
 
 Digital tool review, "TokenX as a Historical Research Tool," with Brent
-M. Rogers, in *[The Digital History Project](http://digitalhistory.unl.edu/t-reviews/tokenxhepplerrogers.php)*, July 2009.
+M. Rogers, in *[The Digital History Project](http://digitalhistory.unl.edu/t-reviews/tokenxhepplerrogers.php)* (July 2009).
 
-Book review, Akim Reinhardt, *Ruling Pine Ridge: Oglala Lakota Politics from
-the IRA to Wounded Knee*, in *South Dakota History*, Summer 2008.
+Review of Akim Reinhardt, *Ruling Pine Ridge: Oglala Lakota Politics from the IRA to Wounded Knee*, in *South Dakota History*, (Summer 2008).
 
-Digital history review, William G. Thomas et al., "The Countryside Transformed:
+Digital history review of William G. Thomas et al., "The Countryside Transformed:
 The Eastern Shore of Virginia, the Pennsylvania Railroad, and the Creation of
-the Modern Landscape," in *The Digital History Project*, February 2008.
+the Modern Landscape," in *The Digital History Project* (February 2008).
 
 ### In Progress
 
-"Data Visualization in History," with Lincoln Mullen, article draft, under preparation.
+- A book proposal on a regional urban history of Silicon Valley and San Francisco, co-edited with Lindsey Passenger Wieck.
+- A special edition of *Digital Humanities Quarterly* on digital humanities and social justice.
+- A journal article co-authored with Michael Childers on the Earth First! movement using computational text analysis techniques to analyze the Earth First! newsletters.
 
 # Public History and Public Humanities Experience
 
-**Primary investigator and director**, *[Silicon Valley Historical](http://svhistorical.org)* (2016--*present*). An online spatial exhibit site on the history of Silicon Valley (forthcoming).
+**Primary investigator and director**, *[Silicon Valley Historical](http://svhistorical.org)* (2016--*present*). An online spatial exhibit on the history of Silicon Valley.
 
-**Advisory board member**, *American Indian Digital History Project* (2014--*present*). An Omeka exhibit of material on American Indian history (forthcoming). Served as a technical advisor in deciding on and setting up technical infrastructure. Primary investigator: Kent Blansett.
+**Technical director**, *American Indian Digital History Project* (2014--*present*). An Omeka exhibit of material on American Indian history. Served as a technical advisor in deciding on and setting up technical infrastructure, metadata design, and document digitization. Primary investigator: Kent Blansett.
 
 **Academic technology specialist**, *Chinese Railroad Workers in North America*, Stanford University (2013--2016). Served as a technical advisor and developer for a metadata management system, helped organized and curate nearly 10,000 digitized objects, and trained sixteen research assistants on metadata best practices and the platform used for collecting metadata. Primary investigators: Gordon Chang and Shelley Fischer Fishkin.
 
@@ -172,15 +215,19 @@ the Modern Landscape," in *The Digital History Project*, February 2008.
 
 # Community Outreach and Engagement
 
+**Consultant**, *[Making Invisible Histories Visible](http://invisiblehistory.ops.org)*, Omaha, Nebraska
+(2017--*present*). This program invites twenty-four high school freshmen from Omaha Public Schools to take part in a summer program focused on the history of their city. I serve as a consultant primarily on mapping and digitally-interactive aspects of the projects produced in the program.
+
+**Project Lead**, Puerto Rico Hurricane Relief Mapathon, Omaha, Nebraska (2017). I planned and hosted a mapathon to help with Puerto Rico disaster relief, organizing an open source mapping session to provide data to the Red Cross through OpenStreetMap.
+
 **Organizer** and **Project Lead**, *[Mozilla Global Sprint 2017](https://mozilla.github.io/global-sprint/)*, Omaha, Nebraska (2017). I coordinated and hosted Global Sprint 2017 to bring together scientists, educators, artists, engineers, and others to hack and build projects for a healthy internet. We focused our project around [Open Omaha](http://github.com/open-omaha/).
 
-**Project Lead**, *Mobile Digitization for Rural Community Archives*,
+**Project Lead and Manager**, *Mobile Digitization for Rural Community Archives*,
 Omaha, Nebraska (2017-*present*). With a grant from the LYRASIS Catalyst Fund, we
 initiated a pilot program for a mobile digitization lab and maker space
 for working with rural community archives and Tribal colleges.
 
-**Organizer**, *[Endangered Data Week](http://endangereddataweek.org)*, Omaha, Nebraska (2017). Helped
-organize the first international Endangered Data Week, a collaborative
+**Organizer**, *[Endangered Data Week](http://endangereddataweek.org)*, Omaha, Nebraska (2017). Helped organize the first international Endangered Data Week, a collaborative
 effort among campuses, nonprofits, libraries, citizen science
 initiatives, and cultural heritage institutions. EDW is designed to shed
 light on public datasets that are in danger of being deleted, repressed,
@@ -192,11 +239,15 @@ Science Lab.
 
 **Presenter**, *Information Exchange*, Omaha, Nebraska (2017). An event devoted to helping communities locate and strategize methods to provide better access to information, generate ideas about what libraries are and how knowledge can be shared within a community to improve the lives of its citizens.
 
-**Consulting scholar**, *Santa Clara Valley National Heritage Area* (2017). Research historian helping aid the pursuit of the National Park Service designation for recognizing Silicon Valley as a National Heritage Area (NHA), only the second such site in California. 
+**Consulting scholar**, *Santa Clara Valley National Heritage Area* (2016--2017). Research historian helping aid the pursuit of the National Park Service designation for recognizing Silicon Valley as a National Heritage Area (NHA), only the second such site in California.
 
 # Invited Talks and Presentations
 
+Panel, "Shaping the Digital Humanities: UNL Alumni," Digital Humanities Forum, University of Nebraska-Lincoln, April 2018, Lincoln, Nebraska.
+
 Keynote address, "Approaching a New Historical Atlas of Midwestern History with Deep Maps and Digital History" Midwestern History Association, June 2017, Grand Rapids, Michigan.
+
+"'Don't Let Industry Do its Business In Our Water!!!': Urban Space and Environmental Politics in Silicon Valley," Ball State University, April 2017, Muncie, Indiana.
 
 Talkback, *The Man Who Shot Liberty Valance*, Omaha Community Playhouse, February 2017, Omaha, Nebraska.
 
@@ -214,7 +265,30 @@ History Club Graduate School Symposium, South Dakota State University, October 2
 
 # Conference Papers, Talks, and Workshops
 
-"*Oskate Wicasa*, Progressive Thought, and the Digital Publics of Buffalo Bill's Wild West," Western Historical Association, November 2017, San Diego, California.
+<!--
+"Passages from Quantitative History to Digital Humanities," round table
+discussant, at the 133rd American Historical Association, January 2019, Chicago,
+Illinois.
+
+*Dynamic Digital Methods for Integrating Local History into Public History Institutions and the K-16 Classroom*, one-day workshop given at the 58th Annual Western Historical Association, sponsored by the WHA Committee on Teaching and Public Education, St. Mary's University, October 2018, San Antonio, Texas.
+
+-->
+
+"Integrating Space and Place in the Undergraduate Experience," round table discussant, at "You Are Here": An Interdisciplinary Conference on Place, Space, and Embodiment, Creighton University, March 2018, Omaha, Nebraska.
+
+"'Piecemeal, Patchwork, Prop-Up': Urban Planning and Environmental Change in Postwar Silicon Valley," at "You Are Here": An Interdisciplinary Conference on Place, Space, and Embodiment, Creighton University, March 2018, Omaha, Nebraska.
+
+"The Tap Water Rebellion: Pollution, High-Tech Industrialization, and Suburban Politics in Silicon Valley," at the American Society for Environmental History, March 2018, Riverside, California.
+
+"Arguing with Digital History," round table discussant, at the 132nd American Historical Association, January 2018, Washington, D.C.
+
+*Networks and Network Visualization*, one-day workshop given at the 132nd American Historical Association, January 2018, Washington, D.C.
+
+"*Oskate Wicasa*, Progressive Thought, and the Digital Publics of Buffalo Bill's Wild West," 57th Annual Western Historical Association, November 2017, San Diego, California.
+
+"Introducing the American Indian Digital History Project," at the 57th Annual Western Historical Association, November 2017, San Diego, California.
+
+"Mobile Rural Archives Lab," LYRASIS Member Summit, October 2017, Philadelphia, Pennsylvania.
 
 "Arguing with Digital History," two-day workshop, Roy Rosenzweig Center for History and New Media, George Mason University, September 2017, Arlington, Virginia.
 
@@ -222,13 +296,9 @@ History Club Graduate School Symposium, South Dakota State University, October 2
 
 Attendee, Innovation in Pedagogy and Technology Symposium, May 2017, Lincoln, Nebraska.
 
-Chair and comment, "The Digital Second Crusade," The Second Crusade:
-Chronicles and Perspectives Undergraduate Student Conference, University
-of Nebraska at Omaha, April 2017, Omaha, Nebraska.
+Chair and comment, "The Digital Second Crusade," The Second Crusade: Chronicles and Perspectives Undergraduate Student Conference, University of Nebraska at Omaha, April 2017, Omaha, Nebraska.
 
-*Mapping and Network Analysis Workshop*, Digital Scholarship Lab, Ball State University, April 2017, Muncie, Indiana. 
-
-"'Don't Let Industry Do its Business In Our Water!!!': Urban Space and Environmental Politics in Silicon Valley," Ball State University, April 2017, Muncie, Indiana.
+*Mapping and Network Analysis Workshop*, Digital Scholarship Lab, Ball State University, April 2017, Muncie, Indiana.
 
 Attendee, Midwest Archives Conference, April 2017, Omaha, Nebraska.
 
@@ -340,38 +410,42 @@ Panel chair, Third Annual James A. Rawley Conference in the Humanities, Universi
 
 *External*
 
+<!--
+-   Humanities Nebraska Grant, American Indian Digital History Project, awarded, $10,000.
+-   Library of Congress Teaching with Primary Sources Grant, awarded, $20,000.
+-->
 -   LYRASIS Catalyst Fund, University of Nebraska at Omaha, awarded, $5,500.
 -   Digital Humanities Summer Institute Tuition Scholarship, University of
     Victoria, British Columbia, Canada, 2014, awarded, $800.
 -   Digital Humanities Summer Institute Tuition Scholarship, University of
     Victoria, British Columbia, Canada, 2013, awarded, $800.
+-   Nebraska Humanities Council Mini Grant, James A. Rawley Conference,
+    University of Nebraska-Lincoln, 2010, awarded, $800.
 -   Charles Redd Center for Western Studies, Upper Division and Graduate
     Student Summer Award, Brigham Young University, 2012, not awarded.
 
 *Internal*
 
--   Eugene and Sunny Thomas Fund, University of Nebraska at Omaha Libraries
-    University of Nebraska at Omaha, 2017, $5,500.
--   Faculty Research Grant, Charles W. & Mary Caldwell Martin Fund,
-    University of Nebraska at Omaha, 2017, $725.
--   Office of International Affairs Seed Grant, Stanford University,
-    2014, not awarded.
+-   Eugene and Sunny Thomas Fund, University of Nebraska at Omaha Libraries,
+    University of Nebraska at Omaha, 2018, $5,500.
+-   Faculty Research Grant, Charles W. & Mary Caldwell Martin Fund, University
+    of Nebraska at Omaha, 2017, $725.
+-   Office of International Affairs Seed Grant, Stanford University, 2014, not
+    awarded.
 -   John F. Stover Fellowship, Department of History, University of
     Nebraska-Lincoln, 2012, awarded, $400.
--   Nebraska Humanities Council Mini Grant, James A. Rawley Conference,
-    University of Nebraska-Lincoln, 2010, awarded, $800.
--   Plains Humanities Alliance Grant, James A. Rawley Conference,
-    University of Nebraska-Lincoln, 2010, awarded, $500.
+-   Plains Humanities Alliance Grant, James A. Rawley Conference, University
+    of Nebraska-Lincoln, 2010, awarded, $500.
 -   Sheldon Travel Fund Award, Department of History, University of
     Nebraska-Lincoln, 2010, awarded, $600.
--   Sheldon Fund Award, Department of History, University of
-    Nebraska-Lincoln, 2010, awarded, $380.
+-   Sheldon Fund Award, Department of History, University of Nebraska-Lincoln,
+    2010, awarded, $380.
 -   Graduate Student Travel Fund, Department of History, University of
     Nebraska-Lincoln, 2009, not funded.
 -   Addison E. Sheldon Fellowship, Department of History, University of
     Nebraska-Lincoln, 2009, funded.
--   August Edgren Fellowship, College of Arts and Sciences, University
-    of Nebraska-Lincoln, 2007, funded.
+-   August Edgren Fellowship, College of Arts and Sciences, University of
+    Nebraska-Lincoln, 2007, funded.
 
 # Awards and Honors
 
@@ -384,6 +458,14 @@ Panel chair, Third Annual James A. Rawley Conference in the Humanities, Universi
 -   Phi Alpha Theta Honor Society, South Dakota State University, 2005--2007.
 
 # Professional Development
+
+"Mozilla Open Leaders Training: Mentorship and Training on Working Open," Mozilla Foundation, February--June 2018.
+
+"Starting a Discussion (Leading to Action)," Humanities Symposium, University of Nebraska at Omaha, February 2018.
+
+"Historical Trauma: Conquest, Genocide, and John Wayne, and WE are still here," Carolyn Fiscus, Tribal Court Improvement Program, Omaha, Nebraska, September 2017.
+
+"Collections as Data: IMPACT," Library of Congress, July 2017.
 
 "Open Leadership 101," Mozilla Foundation, 2017.
 
@@ -450,6 +532,20 @@ Workshop, "Mapmaking in the Humanities," remote participation, Electronic Data C
 Workshop, "Introduction to XML," Brian Pytlik-Zillig, Center for Digital
 Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
+# Post-Ph.D. Coursework
+
+*Leading People and Teams*, University of Michigan, via Coursera. Completed 2018.
+
+*Python for Data Science and Machine Learning Bootcamp*, taught by Jose Portilla, via Udemy. Completed 2017.
+
+*Data Science and Machine Learning Bootcamp with R*, taught by Jose Portilla, via Udemy. Completed 2017.
+
+<!--
+*The Data Scientist's Toolbox*, John Hopkins University, via Coursera.  Completed 2017.
+
+*Statistical Thinking for Data Science and Analytics*, Columbia University Data Science Institute, via EdX. Completed 2017.
+-->
+
 # Teaching
 
 *Digital Humanities Summer Institute*
@@ -458,8 +554,7 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
 *University of Nebraska at Omaha (2017-present)*
 
--   HIST 2990: Digital Humanities (Spring 2018) (3 credits)
--   *Doing Digital History* workshop curriculum (Spring 2017)
+-   HIST 2990: Introduction to Digital Humanities (Spring 2018) (3 credits)
 
 *Stanford University (2013--2016)*
 
@@ -477,6 +572,9 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
     (Prof. Dawne Curry, Fall 2008)
 
 ### Guest Lectures
+
+"Introduction to Data Visualization," guest lecture, University of Nebraska
+at Omaha, B. Shine Cho, Spring 2017.
 
 "What is Digital History," guest lecture, University of Nebraska at Omaha, Prof. Sharon Wood, Spring 2017.
 
@@ -546,17 +644,17 @@ Workshop, Graduate Teaching Assistant Workshop, Department of History, Universit
 
 ### Advising
 
-#### Graduate Students
+*Graduate Students*
 
 -   Rebecca Wall, African Colonial Employees Project, Stanford University, 2014--2015
 -   Liz Jacob, African Colonial Employees Project, Stanford University, 2014--2015
 
-#### Graduate Interns
+*Graduate Interns*
 
 -   J.P. Obley, William F. Cody Archive, University of Nebraska-Lincoln, 2012
 -   Andrew Tully, William F. Cody Archive, University of Nebraska-Lincoln, 2012
 
-#### Undergraduate Advising
+*Undergraduate Advising*
 
 -   Julia Laurence, Crowdsourcing Railroads, Stanford University, 2015
 -   Rahul Singireddy, Chinese Input, Stanford University, 2015
@@ -566,103 +664,170 @@ Workshop, Graduate Teaching Assistant Workshop, Department of History, Universit
 -   Tara Balakrishnan, Geography of the Post, Stanford University, 2013
 -   Jared Roehrich, William F. Cody Archive, University of Nebraska-Lincoln, 2011--2012
 
-# Service to the Profession
+### Directed Readings, Independent Studies, and Creative Projects
 
-### Department Service
+Readings in Digital History, University of Nebraska at Omaha, Cory Starbird, Spring 2018.
 
-Faculty Chair-Elect, Library Faculty, UNO Libraries, University of Nebraska at Omaha, 2017--*present*.
+Readings in Digital History, University of Nebraska at Omaha, Christine Taylor, Spring 2018.
 
-Member, Social Science Librarian Search Committee, UNO Libraries,
-University of Nebraska at Omaha, 2017.
+# Languages and Digital Humanities
 
-Chair, Triple Bottom Line Committee, UNO Libraries, University of Nebraska at Omaha, 2017--*present*.
+Data analysis: R (programming language), D3.js (visualization), QGIS / ArcGIS (mapping)
 
-Organizer, Endangered Data Week, UNO Libraries, University of Nebraska at Omaha, April 2017.
+Programming languages: R, Javascript, Python, Ruby, PHP
 
-Member, De-stress Fest Committee, UNO Libraries, University of Nebraska at Omaha, 2017.
+Data science: tidyverse, ggplot, Plotly
 
-Member, Triple Bottom Line Committee, UNO Libraries, University of Nebraska at Omaha, 2017.
+Other technologies: Omeka, Jekyll, \LaTeX, Drupal, WordPress, shell scripting, Git, HTML, CSS, XML/TEI, XSLT, SVN, MySQL, SQLite
 
-Member, Digital Humanities Certificate Committee, Center for Spatial and Textual Analysis, Stanford University, 2013--2016.
+# Professional Organizations and Service
 
-Member, Digital Publishing Committee, Center for Spatial and Textual Analysis, Stanford University, 2013--2016.
+### Membership in Professional and Community Organizations
 
-Member, Digital Outreach Committee, History Graduate Students' Association, University of Nebraska-Lincoln, 2012--2013.
+American Historical Association
+Western History Association  
+Organization of American Historians  
+American Library Association  
+National Council on Public History  
+American Society for Environmental History  
+Association for Computers and the Humanities  
+Nebraska Library Association  
+Nebraska Educational Technology Association
 
-Co-Chair, Poster Committee, Center for Great Plains Studies Symposium,
-University of Nebraska-Lincoln, 2011--2012.
+The League of American Bicyclists  
+Bike Omaha Network  
+Mode Shift Omaha
 
-Vice President, History Graduate Students' Association, University of
-Nebraska-Lincoln, 2010--2011.
+### Offices in Professional Organizations
+
+*Western History Association*
+
+Program Committee, 2018 Annual Meeting, San Antonio, Texas, 2017-2018.
+
+Technology Committee, 2011--*present* (Committee chair, 2017--*present*)
+
+\vspace{.4cm}
+
+*Alliance of Digital Humanities Organizations*
+
+Program reviewer, Digital Humanities Conference 2018, ADHO Conference Coordinating Committee, Mexico City, Mexico, 2018.
+
+Program reviewer, Digital Humanities Conference 2017, ADHO Conference Coordinating Committee, Montreal, Canada, 2017.
+
+Libraries and Digital Humanities Special Interest Group, 2017--*present*
+
+## Departmental / College / University Service
+
+<!-- ### University Committees
+
+*Stanford University* -->
+
+### College Committees
+
+*University of Nebraska at Omaha*
+
+Faculty Chair-Elect, Library Faculty, UNO Libraries, 2017--*present*.
+
+Member, Social Science Librarian Search Committee, UNO Libraries, 2017.
+
+Organizer, Endangered Data Week, UNO Libraries, April 2017.
+
+Member, De-stress Fest Committee, UNO Libraries, 2017.
+
+Member, Triple Bottom Line Committee, UNO Libraries, 2017--*present* (Committee chair, 2017--*present*).
+
+\vspace{.4cm}
+
+*Stanford University*
+
+Member, Stanford Interactive Media Group, 2014--2016.
+
+Member, Stanford Interactive Mapping Group, 2013--2016.
+
+Member, Data Visualization Users Group, 2013--2016.
+
+Member, Stanford Mobile Users Group, 2014--2016.
+
+\vspace{.4cm}
+
+*South Dakota State University*
+
+Secretary/Treasurer, Phi Alpha Theta, 2005--2006.
+
+### Department Committees
+
+*Stanford University*
+
+Member, Digital Publishing Committee, Center for Spatial and Textual Analysis, 2013--2016.
+
+Member, Digital Humanities Certificate Committee, Center for Spatial and Textual Analysis, 2013--2016.
+
+Member, Stanford Network Analysis Group, Center for Spatial and Textual Analysis, 2015--2016.
+
+\vspace{.4cm}
+
+*University of Nebraska-Lincoln*
+
+Member, Digital Outreach Committee, History Graduate Students' Association, 2012--2013.
+
+Co-Chair, Poster Committee, Center for Great Plains Studies Symposium, 2011--2012.
+
+Vice President, History Graduate Students' Association, 2010--2011.
 
 Assistant Director, Sixth Annual James A. Rawley Conference in the
-Humanities, University of Nebraska-Lincoln, 2010--2011.
+Humanities, 2010--2011.
 
-Member, Program Committee, James A. Rawley Conference in the Humanities,
-University of Nebraska-Lincoln, 2009--2011.
+Member, Program Committee, James A. Rawley Conference in the Humanities, 2009--2011.
 
 Member, Digital Outreach Committee, History Graduate Students'
-Association, University of Nebraska-Lincoln, 2007--2010.
+Association, 2007--2010.
 
 Executive Director, Fifth Annual James A. Rawley Conference in the
-Humanities, University of Nebraska-Lincoln, 2009--2010.
+Humanities, 2009--2010.
 
-Chair, ad hoc Website Committee, History Graduate Students' Association,
-University of Nebraska-Lincoln, 2008--2009.
+Chair, ad hoc Website Committee, History Graduate Students' Association, 2008--2009.
 
-Treasurer, History Graduate Students' Association, University of
-Nebraska-Lincoln, 2008--2009.
+Treasurer, History Graduate Students' Association, 2008--2009.
 
 Member, Publicity Committee, Third Annual James A. Rawley Conference in
-the Humanities, University of Nebraska-Lincoln, 2008--2009.
-
-Secretary/Treasurer, Phi Alpha Theta, South Dakota State University,
-2005--2006.
+the Humanities, 2008--2009.
 
 ### University Service
 
-Member, Campus Sustainability Committee, University of Nebraska at Omaha, May 2017--*present*.
+*University of Nebraska at Omaha*
 
-Member, Digital Engagement Community of Practice, UNO Libraries, University of Nebraska at Omaha, 2017--*present*.
+Faculty Moderator, Student Research and Creative Activity Fair, University of
+Nebraska at Omaha, 2018.
 
-Member, Spotlight Service Team, Center for Interdisciplinary Digital Research, Stanford University Libraries, 2016--2016.
+Member, Digital Engagement Community of Practice, UNO Libraries, 2017--*present*.
 
-Member, Stanford Network Analysis Group, Center for Spatial and Textual Analysis, Stanford University, 2015--2016.
+\vspace{.4cm}
 
-Member, Stanford Interactive Media Group, Stanford University, 2014--2016.
+*Stanford University*
 
-Member, Stanford Interactive Mapping Group, Stanford University, 2013--2016.
+Member, Spotlight Service Team, Center for Interdisciplinary Digital Research, 2016--2016.
 
-Member, Data Visualization Users Group, Stanford University, 2013--2016.
+Member, Stanford University Libraries Concierge Advisory Group, 2014--2016.
 
-Member, Stanford Mobile Users Group, Stanford University, 2014--2016.
+Member, Working Group on Stanford University Libraries Technical Infrastructure, 2013--2014.
 
-Member, Stanford University Libraries Concierge Advisory Group, Stanford University, 2014--2016.
+\vspace{.4cm}
 
-Member, Working Group on Stanford University Libraries Technical Infrastructure, Stanford University, 2013--2014.
+*University of Nebraska-Lincoln*
 
-Member, UNL Libraries Graduate Student Advisory Board, University of Nebraska-Lincoln, 2010--2012.
-
-### Professional Service
-
-Member, Program Committee, Western History Association, 2017.
-
-Community Representative, Digital Public Library of America,
-2017--*present*.
-
-Reviewer, Digital Humanities Conference 2017, ADHO Conference Coordinating Committee, 2016--2017.
-
-Peer Reviewer, *The Programming Historian*, 2015--*present*.
-
-Member, Advisory Board, American Indian Digital History Project, 2014--*present*.
-
-Digital Content Advisory Board, *[The American Yawp](http://americanyawp.com)* Textbook, 2014--*present*.
-
-Member, Technology Committee, Western History Association, 2010--*present*.
+Member, UNL Libraries Graduate Student Advisory Board, 2010--2012.
 
 ### Community Service
 
-Member, Bike Omaha Network Committee, LiveWell, Omaha, Nebraska, 2017--*present*
+<!--
+Member, Working Group on Capacity and Governance, Environmental Data & Governance Initiative, 2018--*present*.
+
+Deputy voter registrar, Douglas County, Nebraska, certified March 2018. 
+-->
+
+Member, Mode Shift Omaha, Omaha, Nebraska, 2017--*present*.
+
+Member, Bike Omaha Network Committee, LiveWell, Omaha, Nebraska, 2017--*present*.
 
 Graduate Student Volunteer, History Harvest, Nebraska Public Television,
 University of Nebraska-Lincoln, Lincoln, Nebraska, 2010.
@@ -670,14 +835,17 @@ University of Nebraska-Lincoln, Lincoln, Nebraska, 2010.
 Judge, National History Day, Nebraska State Competition, Nebraska
 Wesleyan University, Lincoln, Nebraska, 2009.
 
-# Languages and Digital Humanities
+### Other Professional Service
 
-Data analysis: R (programming language), D3.js (visualization), QGIS / ArcGIS (mapping)
+Community Representative, Digital Public Library of America, 2017--*present*.
 
-Programming languages: R, Ruby, Javascript, Python, PHP
+Member, Government Records Transparency and Accountability Group, Digital Library Federation, 2017--*present*.
 
-Other technologies: Omeka, Jekyll, \LaTeX, Drupal, WordPress, shell scripting, Git, HTML, CSS, XML/TEI, XSLT, SVN, MySQL
+Member, Advisory Board, American Indian Digital History Project, 2014--*present*.
 
-# Professional Organizations
+Digital Content Advisory Board, *[The American Yawp](http://americanyawp.com)* Textbook, 2014--*present*.
 
-American Historical Association (member), Western History Association (member), Organization of American Historians (member), American Library Association (member), National Council on Public History (member), American Society for Environmental History (member), Society for American City and Regional Planning History (member), Association for Computers and the Humanities (member), Nebraska Library Association (member), Nebraska Educational Technology Association (member)
+### Manuscript Refereeing
+
+*The Programming Historian*  
+*The Public Historian*
