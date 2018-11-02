@@ -4,6 +4,10 @@ jah-vita.pdf: jah-cv.tex web-cv.tex
 	pdflatex jah-cv.tex
 	latexmk -c
 
+jah-resume.pdf: resume.tex resume.md
+	pdflatex jah-cv.tex
+	latexmk -c
+
 jah-vita-short.pdf: jah-cv-short.tex web-cv-short.tex
 	pdflatex jah-cv-short.tex
 	latexmk -c
@@ -12,6 +16,12 @@ web-cv-short.tex: web-cv-short.md
 	pandoc $^ -o $@
 
 web-cv.tex: web-cv.md
+	pandoc $^ -o $@
+
+web-wiki.md: web-cv.md
+	pandoc $^ -t mediawiki -o $@
+
+resume.tex: resume.md
 	pandoc $^ -o $@
 
 clean:
