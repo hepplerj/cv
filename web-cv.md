@@ -72,9 +72,13 @@ Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/histor
 
 ### Books
 
-*Suburban by Nature: Silicon Valley and the Transformation of American Environmental Politics*. Environment in Modern North America series. Norman: University of Oklahoma Press, under contract.
+*Suburban by Nature: Silicon Valley and the Transformation of American
+Environmental Politics*. Environment in Modern North America series. Norman:
+University of Oklahoma Press, under contract.
 
-*Digital Community Engagement: Partnering Communities with the Academy*. Co-editor with Rebecca Wingo and Paul Schaudenwald. Cincinnati: University of Cincinnati Press, under contract. 
+*Digital Community Engagement: Partnering Communities with the Academy*.
+Co-editor with Rebecca Wingo and Paul Schaudenwald. Cincinnati: University of
+Cincinnati Press, 2020. 
 
 *California Rising: A New Urban History*. Co-editor with Lindsey Wieck.
 Lincoln: University of Nebraska Press, under contract.
@@ -84,17 +88,17 @@ Lincoln: University of Nebraska Press, under contract.
 <!--
 
 "Preserving Nature to Preserve Health: Dorothy Erskine, California's Conservationist," Pacific Historical Review (forthcoming).
+-->
 
 "Field Notes: Blogwest," with Michael Childers and Kent Blansett, *Western Historical Quarterly* (forthcoming).
--->
 
 "Who is Writing about Women in STEM in Higher Education? A Citation Analysis of Gendered Authorship," co-author with Heidi Blackburn, *Frontiers in Psychology*, under review.
 
-"Women in STEM in Higher Education: A Citation Analysis of the Current Literature," co-author with Heidi Blackburn, *Science & Technology Libraries* (2019). DOI: [https://doi.org/10.1080/0194262X.2019.1645080](10.1080/0194262X.2019.1645080) 
+"Women in STEM in Higher Education: A Citation Analysis of the Current Literature," co-author with Heidi Blackburn, *Science & Technology Libraries* (2019). <https://doi.org/10.1080/0194262X.2019.1645080>
 
-"Teaching Data Literacy for Civic Engagement: Resources for Data Capture and Organization," co-author with Brandon Locke, *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 2 (1) (Fall 2018). DOI: 10.5334/kula.23
+"Teaching Data Literacy for Civic Engagement: Resources for Data Capture and Organization," co-author with Brandon Locke, *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 2 (1) (Fall 2018). <https://doi.org/10.5334/kula.23>
 
-"Green Dreams, Toxic Legacies: Toward a Digital Political Ecology of Silicon Valley," *International Journal of Humanities and Arts Computing* vol. 11, no. 1 (March 2017): 68--85. DOI: 10.3366/ijhac.2017.0179
+"Green Dreams, Toxic Legacies: Toward a Digital Political Ecology of Silicon Valley," *International Journal of Humanities and Arts Computing* vol. 11, no.  1 (March 2017): 68--85. <https://doi.org/10.3366/ijhac.2017.0179>
 
 "[Crowdsourcing Public Digital History](http://tah.oah.org/content/crowdsourcing-digital-public-history/)," co-author with Gabriel Wolfenstein, *The American Historian*, March 2015.
 
@@ -110,25 +114,27 @@ Lincoln: University of Nebraska Press, under contract.
 
 "The American Indian Movement and South Dakota Politics," in *The Plains Political Tradition*, edited by Jon Lauck, John E. Miller, and Donald Simmons. Pierre, SD: South Dakota State Historical Society Press, 2011, 267--287.
 
-### Other Writing (essays, op-eds, whitepapers)
-
-"[How Silicon Valley provides the blueprint for cleaning up our drinking water](https://www.washingtonpost.com/outlook/2019/04/26/how-silicon-valley-provides-blueprint-cleaning-up-our-drinking-water/)," *The Washington Post*, April 26, 2019.
+### Other Academic Publications 
 
 "Advocacy, Training, and Awareness Through Endangered Data Week," co-author with Brandon Locke, Sarah Melton, and Rachel Mattson, *Parameters*, SSRC, February 26, 2018. 
 
-"[How Silicon Valley Industry Polluted the Sylvan California Dream](https://theconversation.com/how-silicon-valley-industry-polluted-the-sylvan-california-dream-85810)," essay, *The Conversation*, November 15, 2017.
+Arguing with Digital History working group, "Digital History and Argument," white paper, Roy Rosenzweig Center for History and New Media, George Mason University, November 13, 2017: <http://rrchnm.org/argument-white-paper/>.
 
-"Arguing with Digital History," working group white paper, Roy Rosenzweig Center for History and New Media, George Mason University, November 13, 2017 <http://rrchnm.org/argument-white-paper/>.
+### Select Media Publications \& Interviews
+
+"[How Silicon Valley provides the blueprint for cleaning up our drinking water](https://www.washingtonpost.com/outlook/2019/04/26/how-silicon-valley-provides-blueprint-cleaning-up-our-drinking-water/)," *The Washington Post*, April 26, 2019.
+
+"[How Silicon Valley Industry Polluted the Sylvan California Dream](https://theconversation.com/how-silicon-valley-industry-polluted-the-sylvan-california-dream-85810)," *The Conversation*, November 15, 2017.
 
 ### Electronic Books
 
-*[The Rubyist Historian: Ruby Fundamentals for Humanities Scholars](http://hepplerj.github.io/rubyist-historian/)*. doi: 10.5281/zendo.9987.
+*[The Rubyist Historian: Ruby Fundamentals for Humanities Scholars](http://hepplerj.github.io/rubyist-historian/)*. DOI: 10.5281/zendo.9987.
 
 ### Digital
 
 [Machines in the Valley: Growth, Conflict, and Environmental Politics in Silicon Valley](http://dissertation.jasonheppler.org), digital history, 2015--*present*.
 
-Research Director, American Indian Digital History Project, 2017--*present*.
+Research Director, [American Indian Digital History Project](https://aidhp.com), digital history, 2017--*present*
 
 Project Manager, [William F. Cody Archive](http://codyarchive.org/), Center for Digital Research in the Humanities, University of Nebraska-Lincoln, 2011--2013.
 
@@ -166,14 +172,14 @@ Co-host, [The First Draft Podcast](http://www.fiddly.fm/firstdraft/), with Elija
 
 ### Reviews
 
-Review essay, "Mobile Digital Public History", in *International Public History* (forthcoming, 2020).
+Review essay, "Mobile Digital Public History", in *International Public History* (forthcoming).
 
-Review of Trevor Owens, *The Theory and Craft of Digital Preservation* (), in
-*The Public Historian* (forthcoming, 2020).
+Review of Trevor Owens, *The Theory and Craft of Digital Preservation* (Johns
+Hopkins University Press), in *The Public Historian* (forthcoming).
 
-Review of Walter Nugent, *Color Coded: Party Politics in the American West, 1950-2016* (University of Oklahoma Press), in *South Dakota History* (forthcoming, 2019).
+Review of Walter Nugent, *Color Coded: Party Politics in the American West, 1950-2016* (University of Oklahoma Press), in *South Dakota History* (forthcoming).
 
-Review of Pamela Riney-Kehrberg, *The Nature of Childhood: An Environmental History of Growing Up in America since 1865* (University Press of Kansas), in *Middle West Review* (Spring 2019).
+Review of Pamela Riney-Kehrberg, *The Nature of Childhood: An Environmental History of Growing Up in America since 1865* (University Press of Kansas), in *Middle West Review* (Spring 2019). <https://doi.org/10.1353/mwr.2019.0030>
 
 Review of Andrew Busch, *City in a Garden: Environmental Transformations and Racial Justice in Twentieth-Century Austin* (University of North Carolina Press), in *Environmental History* (Fall 2018). <https://doi.org/10.1093/envhis/emy067>
 
@@ -181,9 +187,9 @@ Digital history review of *Mapping Inequality: Redlining in New Deal America* an
 
 Digital history review of Jay Taylor, *Follow the Money: A Spatial Historty of In-Lieu Programs for Western Federal Lands* (Stanford Spatial History Project), in *Western Historical Quarterly* (Fall 2018). <https://doi.org/10.1093/whq/why049>
 
-Digital history review of *American Panorama: An Atlas of United States History* (University of Richmond), in *Journal of American History* (March 2017), DOI: 10.1093/jahist/jaw624.
+Digital history review of *American Panorama: An Atlas of United States History* (University of Richmond), in *Journal of American History* (March 2017). <https://doi.org/10.1093/jahist/jaw624> 
 
-Digital history review of *North Dakota: People Living on the Land* (State Historical Society of North Dakota), in *The Public Historian* (May 2017), DOI: 10.1525/tph.2017.39.2.104.
+Digital history review of *North Dakota: People Living on the Land* (State Historical Society of North Dakota), in *The Public Historian* (May 2017). <https://doi.org/10.1525/tph.2017.39.2.104>
 
 Review of Bradley Shreve, *Red Power Rising: The National Indian Youth Council and the Origins of Native Activism* (University of Oklahoma Press), in *South Dakota History* (Spring 2012).
 
@@ -268,7 +274,9 @@ History Club Graduate School Symposium, South Dakota State University, October 2
 
 ### Papers Presented
 
-"Using data visualization to analyze topic development by Business Communication students in a one-shot setting," 2019 Brick & Click Conference.
+"Using data visualization to analyze topic development by business communication students in a one-shot setting," Brick & Click: An Academic Library Conference, November 2019, Maryville, MO.  
+
+"A citation analysis of journals publishing research on women in STEM in higher education," American Library Association Annual Conference, June 2019, Washington, D.C.
 
 "Creating a Culture of Data Consciousness with Endangered Data Week," Mozilla Festival, October 2018, London, United Kingdom.
 
@@ -397,7 +405,8 @@ University of Nebraska-Lincoln, April 2008.
 ### Roundtables
 
 "It's a Gamble: Luck, Chance, and Failure as a Historian," round table
-discussant, 59th Annual Conference of the Western History Association, October 2019, Las Vegas, Nevada.
+discussant, 59th Annual Conference of the Western History Association, October
+2019, Las Vegas, Nevada.
 
 "Passages from Quantitative History to Digital Humanities," round table
 discussant, at the 133rd American Historical Association, January 2019, Chicago,
@@ -715,6 +724,7 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
 **Library Instruction**
 
+-   BootcampR: An Introduction to R (Spring 2020)
 -   Guest lecture for ISQA 4000/8086: From Data to Decisions (Fall 2019)
 -   Guest lecture for HIST 4990: Senior Research Seminar (Spring 2019)
 -   Guest lecture for HIST 4740: Comparative Genocide (Spring 2019)
@@ -746,11 +756,6 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
 "Introduction to Data Visualization," guest lecture, University of Nebraska
 at Omaha, B. Shine Cho, Spring 2017.
-
-"What is Digital History," guest lecture, University of Nebraska at Omaha, Prof. Sharon Wood, Spring 2017.
-
-"What is Digital History," guest lecture, University of Nebraska at
-Omaha, Prof. Jeanne Reames, Spring 2017.
 
 "Digital Dissertations," discussion leader, Digital Humanities Fellows, Center for Spatial and Textual Analysis, Stanford University, Spring 2016.
 
