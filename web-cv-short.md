@@ -9,34 +9,36 @@ Digital Engagement Librarian, UNO Libraries, University of Nebraska at Omaha (20
 
 Assistant Professor of History (by courtesy), University of Nebraska at Omaha (2017--present)
 
-Affiliate Faculty, Center for Urban Sustainability, University of Nebraska at Omaha (2017--present)
+Researcher, Humanities + Design, Stanford University (2015--present)
 
 # Education
 
-**PhD, History**, University of Nebraska-Lincoln (2016)    
+PhD, History, University of Nebraska-Lincoln (2016)  
+MA, History, University of Nebraska-Lincoln (2009)  
+BA, History, South Dakota State University (2007)
 
-**MA, History**, University of Nebraska-Lincoln (2009)    
+# Selected Publications and Projects
 
-**BA, History**, South Dakota State University (2007)  
+*Suburban by Nature: Silicon Valley and the Transformation of American Environmental Politics*. Norman: University of Oklahoma Press, under contract.
 
-# Selected Publications
+*Digital Community Engagement: Partnering Communities with the Academy*. Co-editor with Rebecca Wingo and Paul Schaudenwald. Cincinnati: University of Cincinnati Press, 2020. 
 
-*Suburban by Nature: Environmental Politics and the Imagining of Silicon Valley*. Norman: University of Oklahoma Press, proposal under review.
+"Teaching Data Literacy for Civic Engagement: Resources for Data Capture and Organization," co-author with Brandon Locke, *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 2 (1) (Fall 2018). DOI: 10.5334/kula.23
 
 "Green Dreams, Toxic Legacies: Toward a Digital Political Ecology of Silicon Valley," *International Journal of Humanities and Arts Computing* vol. 11, no. 1 (March 2017): 68--85. DOI: 10.3366/ijhac.2017.0179
 
-"A National Monument," co-author with Douglas Seefeldt, in *The Companion to Custer and the Little Big Horn*, edited by Brad Lookingbill. Hoboken: Wiley and Sons, 2015.
+# Selected Presentations
 
-"[Crowdsourcing Public Digital History](http://tah.oah.org/content/crowdsourcing-digital-public-history/)," co-author with Gabriel Wolfenstein, *The American Historian*, March 2015.
+"Passages from Quantitative History to Digital Humanities," round table
+discussant, at the 133rd American Historical Association, January 2019, Chicago,
+Illinois.
 
-# Select Presentations
+"Creating a Culture of Data Consciousness with Endangered Data Week," Mozilla Festival, October 2018, London, United Kingdom.
 
-"Mobile Rural Archives Lab," LYRASIS Member Summit, October 2017, Philadelphia, Pennsylvania.
+"'Piecemeal, Patchwork, Prop-Up': Urban Planning and Environmental Change in
+Postwar Silicon Valley," at "You Are Here": An Interdisciplinary Conference on
+Place, Space, and Embodiment, Creighton University, March 2018, Omaha,
+Nebraska.
 
-"Mapping Silicon Valley" Digital Humanities 2017, August 2017, Montreal, Canada.
-
-"Digital History, Publics, and Community Engagement," *Information Exchange*, March 2017, Omaha, Nebraska.
-
-"Using Maps and Metadata to Teach the History of Silicon Valley," Third Annual Academic Technology Expo, Stanford University, October 2016, Stanford, California.
-
-"From the Laptop to the Archive: Managing Research Data in the Humanities," October 2015, Digital Library Federation Forum, October 2015, Vancouver, British Columbia, Canada.
+"Arguing with Digital History," round table discussant, at the 132nd American
+Historical Association, January 2018, Washington, D.C.

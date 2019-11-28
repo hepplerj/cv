@@ -1,6 +1,15 @@
-%Jason A. Heppler | jason@jasonheppler.org | http://jasonheppler.org
+% Curriculum vitae
+% Jason A. Heppler | jason@jasonheppler.org | http://jasonheppler.org
+% Updated: 2017-06-13 
 
-\documentclass[11pt]{article}
+%%% 
+
+\documentclass[10pt]{article}
+
+%%%------------------------------------------------------------------------
+%%% Packages 
+%%%------------------------------------------------------------------------
+
 \usepackage{microtype}
 \frenchspacing
 \usepackage[letterpaper,margin=1in]{geometry}
@@ -12,29 +21,38 @@
 \usepackage{fancyhdr}
 \pagestyle{plain}
 \frenchspacing
+\usepackage{noto}
+\usepackage[T1]{fontenc}
 
 %%%------------------------------------------------------------------------
 %%% Metadata
 %%%------------------------------------------------------------------------
+
 \def\myauthor{Jason Heppler}
 \def\mytitle{Vita}
 \def\mycopyright{\myauthor}
 \def\mybibliostyle{plain}
+\def\mybibliocommand{}
+\def\mysubtitle{}
 \def\myaffiliation{University of Nebraska at Omaha}
+\def\myjob{Director, Digital Engagement Lab}
+\def\mycourtesy{Digital Engagement Librarian}
 \def\myaddress{Center for Digital Engagement}
 \def\myemail{jason@jasonheppler.org}
 \def\myweb{http://jasonheppler.org}
-\def\myphone{(402) 909-1323}
+\def\myphone{+1 402 909-1323}
+\def\mytwitter{jaheppler}
+\def\mygithub{hepplerj}
+\def\mypgp{7194 C159 B68D A2B3}
 
-\def\myaffiliation{University of Nebraska at Omaha}
-\def\myauthor{Jason Heppler}
-\date{}
-\def\mykeywords{Jason, Heppler, Jason Heppler, Vita, CV, Resume, History}
+\date{} % not used (revision control instead)
+\def\mykeywords{Jason, Heppler, Jason Heppler, Vita, CV, Resume, History, Libraries}
 
 % HEADINGS
 \usepackage{sectsty}
 \usepackage{titlesec}
 \usepackage[normalem]{ulem}
+\usepackage{multicol}
 \sectionfont{\mdseries\Large}
 \subsectionfont{\mdseries\scshape\normalsize}
 \subsubsectionfont{\bfseries\upshape\normalsize}
@@ -47,21 +65,36 @@
 % tightlist fix
 \def\tightlist{}
 
+%%%------------------------------------------------------------------------
 % PDF SETUP
+%%%------------------------------------------------------------------------
+
 \PassOptionsToPackage{hyphens}{url}\usepackage[hidelinks, breaklinks, pdftex, pdftitle={Jason A. Heppler - CV}, pdfauthor={Jason A. Heppler}]{hyperref}
 \hypersetup{
   colorlinks   = true,
-  urlcolor    = black 
+  allcolors    = RoyalBlue 
 }
 
-\usepackage[T1]{fontenc}
+%\usepackage[sfdefault]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
+%\usepackage[T1]{fontenc}
+\renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
+\usepackage{fontawesome}
 
-% DOCUMENT
+%%%------------------------------------------------------------------------
+%%% Document 
+%%%------------------------------------------------------------------------
+
 \begin{document}
+
 \thispagestyle{fancy}
 \fancyfoot{}
 \fancyhead{}
 \renewcommand{\headrulewidth}{0pt}
+
+%%%------------------------------------------------------------------------
+%%% Version date
+%%%------------------------------------------------------------------------
+
 %%% The next line will put the date revised in footer of first page
 \rfoot{\scriptsize Current as of \today}
 
@@ -69,24 +102,43 @@
 \hfill\hfill\hfill
 \hfill\hfill\hfill
 \hfill\hfill\hfill
+
 %%%------------------------------------------------------------------------
 %%% Address and contact block
 %%%------------------------------------------------------------------------
-\begin{minipage}[t]{1.4in}
-  \flushleft{\scriptsize  \texttt{\href{mailto:jason@jasonheppler.org}{jason@jasonheppler.org}}} \\
-  \vspace{-0.065in}{\scriptsize  \url{http://jasonheppler.org}}
+
+\noindent{\LARGE Jason A. Heppler, PhD}\\[-0.1in] \\
+\noindent{\footnotesize \emph{short curriculum vitae}}
+
+\vskip 0.05in
+
+\begin{minipage}[t]{2.95in}
+  \flushleft {\footnotesize
+  %\myjob \\
+  \mycourtesy \\
+  UNO Libraries \& Dept. of History \\ 
+  University of Nebraska at Omaha \\
+  6001 Dodge Street \\
+  \vspace{-0.05in} Omaha, \textsc{NE} 68182}
 \end{minipage}
 \hfill
-\begin{minipage}[t]{1.9in}
-  \flushleft{{\scriptsize {UNO Libraries \& Dept. of History} \\ University of Nebraska at Omaha \\ 6001 Dodge Street \\ \vspace{-0.05in} 
-      Omaha, NE 68182}}
+%\begin{minipage}[t]{0.0in}
+% dummy (needed here)
+%\end{minipage}
+\hfill
+\begin{minipage}[t]{3.5in}
+  \flushleft \footnotesize
+  \faEnvelopeO  \texttt{\href{mailto:\myemail}{\myemail}} \\
+  \faPhone \myphone \\
+  \faGlobe \texttt{\href{\myweb}{\myweb}} \\ 
+  \faTwitterSquare \texttt{\href{http://twitter.com/jaheppler}{\mytwitter}} \\
+  %\faGithubSquare \texttt{\href{http://github.com/hepplerj}{\mygithub}} \\
+  %\faLinkedinSquare \texttt{\href{http://linkedin.com/in/jasonheppler/}{jasonheppler}} \\
+  \faBook \texttt{\href{https://orcid.org/0000-0003-4158-6186}{0000-0003-4158-6186}} \\
+  \faUserSecret \texttt{\href{https://keybase.io/jaheppler}{\mypgp}}
 \end{minipage}
 
 \vskip 0.5in
-
-\noindent{\huge {\textsc{jason a. heppler, ph.d.}}}
-
-\vskip 0.05in
 
 \input{web-cv-short}
 
