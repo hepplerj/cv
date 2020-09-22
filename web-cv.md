@@ -3,42 +3,70 @@ layout: cv
 title: "Jason A. Heppler - CV"
 ...
 
+\vspace{\fill}
+
+### SHORT BIO
+
+\begin{large} I am a researcher and designer specializing in environmental history, sustainability, and the exploration, visualization, and transformation of data. 
+\end{large}
+
+I have participated in several internationally renowned data-driven design and research projects, including [Palladio](http://hdlab.stanford.edu/palladio/), [Geography of the Post](https://cameronblevins.org/gotp/), and [Chinese Deathscape](https://chinesedeathscape.org). I have been involved in consulting and teaching activities at public and private institutions, such as Stanford University, Colorado State University, George Mason University, the American Historical Association, the University of Nebraska, and Mozilla. My work has been featured in numerous venues and publications. 
+
+I obtained a BA in History and Economics at South Dakota State University and an MA and PhD in History at the University of Nebraska-Lincoln. My research focuses on environmental data visualization and interfaces to support academic and industry needs. From 2013 to 2016, I was the Academic Technology Specialist at Stanford University, within the Stanford University libraries, the Center for Spatial and Textual Analysis (CESTA), and the Department of History. I joined the University of Nebraska at Omaha as the Digital Engagement Librarian in 2017. 
+
+In 2017 I co-founded, with Brandon Locke and Sarah Melton, [Endangered Data Week](https://endangereddataweek.org), which exists to create a culture of data consciousness for technologists, librarians, journalists, citizen scientists, and others.
+
+\newpage
+
 # Positions 
 
-**Digital Engagement Librarian**, University of Nebraska at Omaha Libraries (2017--*present*)
+January 2017--*present*
 
-**Assistant Professor of History (by courtesy)**, University of Nebraska at Omaha (2017--*present*)
+**Digital Engagement Librarian**, University of Nebraska at Omaha Libraries (Omaha, Nebr.)
 
-**Sustainability Faculty**, Sustainability Minor Program, University of Nebraska at Omaha (2019--*present*)
+**Assistant Professor of History (by courtesy)**, University of Nebraska at Omaha (Omaha, Nebr.)
+
+**Sustainability Faculty**, Sustainability Minor Program, University of Nebraska at Omaha (Omaha, Nebr.)
 
 \vspace{.4cm}
 
-**Academic Technology Specialist**, [Department of History](http://history.stanford.edu) and [Center for Interdisciplinary Digital Research](http://cidr.stanford.edu) (CIDR), Stanford University (2013--2016)
+March 2017--*present*
 
-**Research Staff**, [Center for Spatial and Textual Analysis](http://cesta.stanford.edu) (CESTA), Stanford University (2013--2016)
+**Co-founder and organizer**, [Endangered Data Week](https://endangereddataweek.org) (Remote)
 
-**Lecturer**, Department of History, Stanford University (2014--2016)
+\vspace{.4cm}
+
+January 2013--December 2016
+
+**Academic Technology Specialist**, [Department of History](http://history.stanford.edu) and [Center for Interdisciplinary Digital Research](http://cidr.stanford.edu) (CIDR), Stanford University (Stanford, Calif.)
+
+**Research Staff**, [Center for Spatial and Textual Analysis](http://cesta.stanford.edu) (CESTA), Stanford University (Stanford, Calif.)
+
+**Lecturer**, Department of History, Stanford University (Stanford, Calif.)
 
 \vspace{0.2cm}
 
-## Major Affiliations and Fellowships
+### Major Affiliations and Fellowships
+
+**Member**, Environmental History Action Collaborative Working Group, Environmental Data & Governance Initiative (2020--*present*)
 
 **Mentor**, Open Leadership Program, Mozilla Foundation (2018--*present*)
 
+<!--
 **Digital Humanities Advisor**, "What is the Midwest?," Newberry Library, Chicago, IL (2017--*present*)
-
-**Center Affiliate**, Center for Urban Sustainability, University of Nebraska
-at Omaha (2017--*present*)
+-->
 
 **Affiliate Scholar**, Humanities+Design, Stanford University (2017--*present*)
 
 \vspace{0.2cm}
 
-## Editorial Appointments
+### Editorial Appointments
 
+<!--
 **Advisory Board**, Omaha Histories (2018--*present*)
 
 **Editor**, [Silicon Valley Historical](http://svhistorical.org) (2016--*present*)
+-->
 
 **Editorial Board**, *Studies in Midwestern History*, Midwestern History Association (2017--*present*)
 
@@ -48,7 +76,7 @@ at Omaha (2017--*present*)
 
 # Areas of Research and Teaching
 
-North American West $\cdot$ Twentieth-century United States $\cdot$ Digital History/Humanities $\cdot$ Environmental History $\cdot$ Political History $\cdot$ Political Parties and Movements $\cdot$ Data Visualization $\cdot$ Computational History
+North American West $\cdot$ Twentieth-century United States $\cdot$ Digital History/Humanities $\cdot$ Environmental History $\cdot$ Political History $\cdot$ Data Visualization $\cdot$ Computational History
 
 \newpage
 
@@ -72,41 +100,37 @@ Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/histor
 
 ### Books
 
-*Suburban by Nature: Silicon Valley and the Transformation of American
-Environmental Politics*. Environment in Modern North America series. Norman:
-University of Oklahoma Press, under contract.
+*Suburban by Nature: Silicon Valley and the Transformation of American Environmental Politics*. Environment in Modern North America series. Norman: University of Oklahoma Press, under contract.
 
-*Digital Community Engagement: Partnering Communities with the Academy*.
-Co-editor with Rebecca Wingo and Paul Schaudenwald. Cincinnati: University of
-Cincinnati Press, 2020. 
+*[Digital Community Engagement: Partnering Communities with the Academy](https://ucincinnatipress.manifoldapp.org/projects/digital-community-engagement)*. Co-editor with Rebecca Wingo and Paul Schaudewald. Cincinnati: University of Cincinnati Press, 2020. 
 
-*California Rising: A New Urban History*. Co-editor with Lindsey Wieck.
-Lincoln: University of Nebraska Press, under contract.
+*California Rising: A New Urban History*. Co-editor with Lindsey Wieck. Lincoln: University of Nebraska Press, under contract.
 
 ### Journal Articles
 
 <!--
-
 "Preserving Nature to Preserve Health: Dorothy Erskine, California's Conservationist," Pacific Historical Review (forthcoming).
 -->
 
-"Field Notes: Blogwest," with Michael Childers and Kent Blansett, *Western Historical Quarterly* (forthcoming).
+<!--
+Michael Childers, Kent Blansett, and Jason A. Heppler, "Field Notes: Blogwest," *Western Historical Quarterly* (forthcoming).
+-->
 
-"Who is Writing about Women in STEM in Higher Education? A Citation Analysis of Gendered Authorship," co-author with Heidi Blackburn, *Frontiers in Psychology*, under review.
+Heidi Blackburn and Jason A. Heppler, "Who is Writing about Women in STEM in Higher Education? A Citation Analysis of Gendered Authorship," *Frontiers in Psychology* 10 (2020). <https://doi.org/10.3389/fpsyg.2019.02979>
 
-"Women in STEM in Higher Education: A Citation Analysis of the Current Literature," co-author with Heidi Blackburn, *Science & Technology Libraries* (2019). <https://doi.org/10.1080/0194262X.2019.1645080>
+Heidi Blackburn and Jason A. Heppler, "Women in STEM in Higher Education: A Citation Analysis of the Current Literature," *Science & Technology Libraries* (2019). <https://doi.org/10.1080/0194262X.2019.1645080>
 
-"Teaching Data Literacy for Civic Engagement: Resources for Data Capture and Organization," co-author with Brandon Locke, *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 2 (1) (Fall 2018). <https://doi.org/10.5334/kula.23>
+Brandon Locke and Jason A. Heppler, "Teaching Data Literacy for Civic Engagement: Resources for Data Capture and Organization," *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 2 (1) (Fall 2018). <https://doi.org/10.5334/kula.23>
 
 "Green Dreams, Toxic Legacies: Toward a Digital Political Ecology of Silicon Valley," *International Journal of Humanities and Arts Computing* vol. 11, no.  1 (March 2017): 68--85. <https://doi.org/10.3366/ijhac.2017.0179>
 
-"[Crowdsourcing Public Digital History](http://tah.oah.org/content/crowdsourcing-digital-public-history/)," co-author with Gabriel Wolfenstein, *The American Historian*, March 2015.
+Gabriel Wolfenstein and Jason A. Heppler, "[Crowdsourcing Public Digital History](http://tah.oah.org/content/crowdsourcing-digital-public-history/)," *The American Historian*, March 2015.
 
-"[A Call to Redefine Historical Scholarship in the Digital Turn](http://journalofdigitalhumanities.org/1-4/a-call-to-redefine-historical-scholarship-in-the-digital-turn/)," co-author with Alex Galarza and Douglas Seefeldt, *Journal of Digital Humanities*, December 2012.
+Alex Galarza, Douglas Seefeldt, and Jason A. Heppler, "[A Call to Redefine Historical Scholarship in the Digital Turn](http://journalofdigitalhumanities.org/1-4/a-call-to-redefine-historical-scholarship-in-the-digital-turn/)," *Journal of Digital Humanities*, December 2012.
 
 ### Book Chapters
 
-"Digital Storytelling," in the *Handbook of Digital Public History*, edited by Serge Noiret and Mark Tebeau. Berlin: De Gruyter Press, 2021.
+"Creating Capacity for Research Data Services at Regional Universities: A Case Study," co-author with Omer Farooq and Kate Ehrig-Page in *Teaching Research Data management*, ed. Julia Bauder, forthcoming.
 
 "Humanistic Approaches to Data Visualization," in *The Companion to Digital History*, ed. David Staley. Hoboken: Wiley and Sons, forthcoming.
 
@@ -116,7 +140,7 @@ Lincoln: University of Nebraska Press, under contract.
 
 ### Other Academic Publications 
 
-"Advocacy, Training, and Awareness Through Endangered Data Week," co-author with Brandon Locke, Sarah Melton, and Rachel Mattson, *Parameters*, SSRC, February 26, 2018. 
+"Advocacy, Training, and Awareness Through Endangered Data Week," co-author with Brandon Locke, Sarah Melton, and Rachel Mattson, *Parameters*, SSRC, February 26, 2018. <https://items.ssrc.org/author/jason-a-heppler/> 
 
 Arguing with Digital History working group, "Digital History and Argument," white paper, Roy Rosenzweig Center for History and New Media, George Mason University, November 13, 2017: <http://rrchnm.org/argument-white-paper/>.
 
@@ -132,7 +156,7 @@ Arguing with Digital History working group, "Digital History and Argument," whit
 
 ### Digital
 
-[Machines in the Valley: Growth, Conflict, and Environmental Politics in Silicon Valley](http://dissertation.jasonheppler.org), digital history, 2015--*present*.
+[Machines in the Valley: Growth, Conflict, and Environmental Politics in Silicon Valley](http://dissertation.jasonheppler.org), digital history, 2015--2017.
 
 Research Director, [American Indian Digital History Project](https://aidhp.com), digital history, 2017--*present*
 
@@ -172,7 +196,7 @@ Co-host, [The First Draft Podcast](http://www.fiddly.fm/firstdraft/), with Elija
 
 ### Reviews
 
-Review essay, "Mobile Digital Public History", in *International Public History* (forthcoming).
+Review essay, "Mobile Digital Public History," in *International Public History* (forthcoming).
 
 Review of Trevor Owens, *The Theory and Craft of Digital Preservation* (Johns
 Hopkins University Press), in *The Public Historian* (forthcoming).
@@ -210,13 +234,9 @@ the Modern Landscape," in *The Digital History Project* (February 2008).
 
 - A journal article co-authored with Michael Childers on the Earth First! movement using computational text analysis techniques to analyze the Earth First! newsletters.
 
-\newpage
-
 # Public History and Public Humanities Experience
 
-**Primary investigator and director**, *[Omaha Historical](http://svhistorical.org)* (2018--*present*). An online spatial exhibit on the history of Omaha.
-
-**Primary investigator and director**, *[Silicon Valley Historical](http://svhistorical.org)* (2016--*present*). An online spatial exhibit on the history of Silicon Valley.
+**Primary investigator and director**, *[Nebraska Historical](http://svhistorical.org)* (2018--*present*). An online spatial exhibit on the history of Nebraska.
 
 **Research director**, *American Indian Digital History Project* (2016--*present*). An Omeka exhibit of material on American Indian history. Served as a technical advisor in deciding on and setting up technical infrastructure, metadata design, and document digitization. Primary investigator: Kent Blansett.
 
@@ -445,37 +465,31 @@ Sandoz Heritage Society Conference, March 2008, Chadron, Nebraska.
 
 ### Working Groups/Workshops
 
-Attendee, *Railroads in Native America: Reflections on the 150th Anniversary
-of the Transcontinental Construction*, University of Nebraska at Omaha,
-September 2019, Omaha, Nebraska.
+Attendee, *Practicing Pedagogies Summer Teaching Summit*, University of Nebraska-Lincoln, May 2020, Lincoln, Nebraska (virtual). 
 
-Attendee, *Practicing Pedagogies Summer Teaching Summit*, University of
-Nebraska-Lincoln, May 2019, Lincoln, Nebraska. 
+Attendee, Nebraska Library Association's College & University Section and Technical Services Round Table, May 2020, virtual.
 
-Attendee, Innovation in Pedagogy and Technology Symposium, May 2019, Lincoln,
-Nebraska.
+Attendee, CSV Conf, May 2020, virtual.
 
-*Dynamic Digital Methods for Integrating Local History into Public History
-Institutions and the K-16 Classroom*, one-day workshop given at the 58th
-Annual Western Historical Association, sponsored by the WHA Committee on
-Teaching and Public Education, St. Mary's University, October 2018, San
-Antonio, Texas.
+Attendee, Innovation in Pedagogy and Technology Symposium, May 2020, Lincoln, Nebraska (virtual).
 
-Attendee, *Practicing Pedagogies Summer Teaching Summit*, University of
-Nebraska-Lincoln, May 2018, Lincoln, Nebraska. 
+Attendee, *Railroads in Native America: Reflections on the 150th Anniversary of the Transcontinental Construction*, University of Nebraska at Omaha, September 2019, Omaha, Nebraska.
 
-Co-convenor, *Digital Community Engagement Symposium*, Macalester College, May
-2018, St. Paul, Minnesota.
+Attendee, *Practicing Pedagogies Summer Teaching Summit*, University of Nebraska-Lincoln, May 2019, Lincoln, Nebraska. 
 
-*Networks and Network Visualization*, one-day workshop given at the 132nd
-American Historical Association, January 2018, Washington, D.C.
+Attendee, Innovation in Pedagogy and Technology Symposium, May 2019, Lincoln, Nebraska.
 
-"Arguing with Digital History," invited attendee for two-day workshop, Roy
-Rosenzweig Center for History and New Media, George Mason University,
-September 2017, Arlington, Virginia.
+*Dynamic Digital Methods for Integrating Local History into Public History Institutions and the K-16 Classroom*, one-day workshop given at the 58th Annual Western Historical Association, sponsored by the WHA Committee on Teaching and Public Education, St. Mary's University, October 2018, San Antonio, Texas.
 
-Attendee, Innovation in Pedagogy and Technology Symposium, May 2017, Lincoln,
-Nebraska.
+Attendee, *Practicing Pedagogies Summer Teaching Summit*, University of Nebraska-Lincoln, May 2018, Lincoln, Nebraska. 
+
+Co-convenor, *Digital Community Engagement Symposium*, Macalester College, May 2018, St. Paul, Minnesota.
+
+*Networks and Network Visualization*, one-day workshop given at the 132nd American Historical Association, January 2018, Washington, D.C.
+
+"Arguing with Digital History," invited attendee for two-day workshop, Roy Rosenzweig Center for History and New Media, George Mason University, September 2017, Arlington, Virginia.
+
+Attendee, Innovation in Pedagogy and Technology Symposium, May 2017, Lincoln, Nebraska.
 
 *Mapping and Network Analysis Workshop*, Digital Scholarship Lab, Ball State
 University, April 12, 2017, Muncie, Indiana.
@@ -551,23 +565,18 @@ Plains Studies Symposium, March 2012, Lincoln, Nebraska.
 
 # Grants and Fellowships
 
-### External ($100,827)
-
-<!--
-Google.org AI for Social Good Grant, Library AI Initiative, University of Nebraska
-at Omaha, awarded, $850,000.
--->
+### External ($42,650)
 
 Public Engagement with Historical Records, National Historical Publications &
-Records Commission, National Archives, $75,577.
+Records Commission, National Archives, not awarded.
 
-Toward an Open Monograph Ecosystem (TOME), awarded, $15,000.
+Toward an Open Monograph Ecosystem (TOME), 2019, awarded, $15,000.
 
-Humanities Nebraska Grant, American Indian Digital History Project, not awarded.
+Humanities Nebraska Grant, American Indian Digital History Project, 2019, not awarded.
 
-Library of Congress Teaching with Primary Sources Grant, awarded, $19,750.
+Library of Congress Teaching with Primary Sources Grant, 2018, awarded, $19,750.
 
-"Mobile Archives for Rural Communities," LYRASIS Catalyst Fund, University of Nebraska at Omaha, awarded, $5,500.
+"Mobile Archives for Rural Communities," LYRASIS Catalyst Fund, University of Nebraska at Omaha, 2017, awarded, $5,500.
 
 Digital Humanities Summer Institute Tuition Scholarship, University of Victoria, British Columbia, Canada, 2014, awarded, $800.
 
@@ -575,7 +584,9 @@ Digital Humanities Summer Institute Tuition Scholarship, University of Victoria,
 
 Nebraska Humanities Council Mini Grant, James A. Rawley Conference, University of Nebraska-Lincoln, 2010, awarded, $800.
 
-### Internal ($8,105)
+### Internal ($9,105)
+
+Civic Participation Project, University of Nebraska at Omaha, 2020, $1,000.
 
 Eugene and Sunny Thomas Fund, University of Nebraska at Omaha Libraries, University of Nebraska at Omaha, 2018, $5,500.
 
@@ -610,12 +621,33 @@ August Edgren Fellowship, College of Arts and Sciences, University of Nebraska-L
 
 # Professional Development
 
-Advisory Council on Historic Preservation training
-- What is Section 106 (completed 2019-08-26)
-- Successfully Navigating Section 106 Review
-- Coordinating NEPA and Section 106
-- Basics of NEPA and Section 106 Integration
-- Early Coordination with Indian Tribes for Infrastructure Projects
+*Indigenous Canada*, University of Alberta. Completed 2020.
+
+*Elements of AI*, University of Helsinki. Completed 2020.
+
+*How do we respond to anti-Black racism in urbanist practices and conversations?," Canadian Urban Institute, June 10, 2020.
+
+*Keep Teaching Summer Series*, Office of Digital Learning, University of Nebraska at Omaha, weekly webinar series, June 24--August 4, 2020.
+
+*COVID-19 Contact Tracing*, Johns Hopkins University, via Coursera. Completed 2020.
+
+*Python for Data Science*, University of California-San Diego, via edX. Completed 2020.
+
+*Research Data Management and Sharing*, The University of North Carolina at Chapel Hill, via Coursera. Completed 2020.
+
+*Norwegian for Beginners I*, Norwegian University of Science and Technology (NTNU), via Future Learn. Completed 2020.
+
+*Introduction to Norwegian*, University of Oslo (UiO), via Future Learn. Completed 2020.
+
+"Text Mining with HathiTrust: An Introduction for Librarians," May 4, 2020.
+
+Red Hat Summit, sessions on AI, data, code, diversity and inclusion, and analytics, virtual event, April 28-29, 2020.
+
+"Solve Climate by 2030," Nebraska Power Dialog, April 12, 2020.
+
+"Going Remote Q&A Livestreams," Basecamp, March 24-April 2, 2020.
+
+"Fighting the Climate Crisis," National Resource Defense Council, teleconference, December 17, 2019. 
 
 *Service Learning Seminar*, Service Learning Academy, University of Nebraska at Omaha, July 2018.
 
@@ -624,6 +656,14 @@ Advisory Council on Historic Preservation training
 *Mozilla Open Leaders Training: Mentorship and Training on Working Open*, Mozilla Foundation, February--June 2018.
 
 "Starting a Discussion (Leading to Action)," Humanities Symposium, University of Nebraska at Omaha, February 2018.
+
+*Python for Data Science and Machine Learning Bootcamp*, taught by Jose Portilla, via Udemy. Completed 2017.
+
+*Data Science and Machine Learning Bootcamp with R*, taught by Jose Portilla, via Udemy. Completed 2017.
+
+*The Data Scientist's Toolbox*, John Hopkins University, via Coursera.  Completed 2017.
+
+*Statistical Thinking for Data Science and Analytics*, Columbia University Data Science Institute, via EdX. Completed 2017.
 
 "Historical Trauma: Conquest, Genocide, and John Wayne, and WE are still here," Carolyn Fiscus, Tribal Court Improvement Program, Omaha, Nebraska, September 2017.
 
@@ -694,35 +734,19 @@ Workshop, "Mapmaking in the Humanities," remote participation, Electronic Data C
 Workshop, "Introduction to XML," Brian Pytlik-Zillig, Center for Digital
 Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
-# Post-Ph.D. Coursework
-
-<!--
-*Leading People and Teams*, University of Michigan, via Coursera. Completed 2018.
--->
-
-*Python for Data Science and Machine Learning Bootcamp*, taught by Jose Portilla, via Udemy. Completed 2017.
-
-*Data Science and Machine Learning Bootcamp with R*, taught by Jose Portilla, via Udemy. Completed 2017.
-
-<!--
-*The Data Scientist's Toolbox*, John Hopkins University, via Coursera.  Completed 2017.
-
-*Statistical Thinking for Data Science and Analytics*, Columbia University Data Science Institute, via EdX. Completed 2017.
--->
-
 # Teaching
 
-*Digital Humanities Summer Institute*
+**Digital Humanities Summer Institute**
 
 -   R, Interactive Graphics, and Data Visualization for the Humanities, with Lincoln Mullen (June 2016)
 
-*University of Nebraska at Omaha (2017-present)*
+**University of Nebraska at Omaha (2017-present)**
 
-**Courses**
+*Courses*
 
 -   HIST 4900: Introduction to Digital Humanities independent study (Spring 2018) (3 credits)
 
-**Library Instruction**
+*Library Instruction*
 
 -   BootcampR: An Introduction to R (Spring 2020)
 -   Guest lecture for ISQA 4000/8086: From Data to Decisions (Fall 2019)
@@ -737,13 +761,13 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
     2017)
 -   Guest lecture for HIST 9100: Ancient Macedonia (Spring 2017)
 
-*Stanford University (2013--2016)*
+**Stanford University (2013--2016)**
 
 -   Digital History Reading Group (2015--2016)
 -   Digital History: Sources, Methods, Problems ([Fall 2014](http://jasonheppler.org/teaching/hist205f.2014/)) (5 credits)
 -   *Doing Digital History* workshop curriculum, Department of History (Winter 2013 and Fall 2013)
 
-*University of Nebraska-Lincoln (2008--2010)*
+**University of Nebraska-Lincoln (2008--2010)**
 
 -   Teaching assistant, HIST 201: U.S. before 1877 (Prof. Brenden
     Rensink, Fall 2010)
@@ -754,34 +778,23 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
 ### Guest Lectures
 
-"Introduction to Data Visualization," guest lecture, University of Nebraska
-at Omaha, B. Shine Cho, Spring 2017.
+"Introduction to Data Visualization," guest lecture, University of Nebraska at Omaha, B. Shine Cho, Spring 2017.
 
 "Digital Dissertations," discussion leader, Digital Humanities Fellows, Center for Spatial and Textual Analysis, Stanford University, Spring 2016.
 
-"Spatial History," guest lecture, Stanford University, COMPLIST
-238/ENGLISH 229D/HISTORY 229D: Introduction to Digital Humanities, Lect.
-Brian Johnsrud and Mike Widner, Winter 2014.
+"Spatial History," guest lecture, Stanford University, COMPLIST 238/ENGLISH 229D/HISTORY 229D: Introduction to Digital Humanities, Lect. Brian Johnsrud and Mike Widner, Winter 2014.
 
-"Mass Media and the American Indian Movement," guest lecture, University
-of Nebraska-Lincoln, COMM 189H: Communications and Social Movements,
-Prof. Carly Woods, Fall 2011.
+"Mass Media and the American Indian Movement," guest lecture, University of Nebraska-Lincoln, COMM 189H: Communications and Social Movements, Prof. Carly Woods, Fall 2011.
 
-"Thomas Jefferson and the American West," guest lecture, University of
-Nebraska-Lincoln, HIST 201: U.S. History before 1877, Prof. Brenden
-Rensink, Fall 2010.
+"Thomas Jefferson and the American West," guest lecture, University of Nebraska-Lincoln, HIST 201: U.S. History before 1877, Prof. Brenden Rensink, Fall 2010.
 
-"Empire of Liberty: Culture, Society, and Politics in the Early
-Republic," guest lecture, University of Nebraska-Lincoln, HIST 201: U.S.
+"Empire of Liberty: Culture, Society, and Politics in the Early Republic," guest lecture, University of Nebraska-Lincoln, HIST 201: U.S.
+
 History before 1877, Prof. Brenden Rensink, Fall 2010.
 
-"Show Indians and Buffalo Bill's Wild West," guest lecture, University
-of Nebraska-Lincoln, HIST 359: Mythic West, Prof. Douglas Seefeldt,
-Spring 2010.
+"Show Indians and Buffalo Bill's Wild West," guest lecture, University of Nebraska-Lincoln, HIST 359: Mythic West, Prof. Douglas Seefeldt, Spring 2010.
 
-"The Origins of Red Power and the American Indian Movement," guest
-lecture, University of Nebraska-Lincoln, HIST 202: U.S. History after
-1877, Prof. William G. Thomas, Spring 2009.
+"The Origins of Red Power and the American Indian Movement," guest lecture, University of Nebraska-Lincoln, HIST 202: U.S. History after 1877, Prof. William G. Thomas, Spring 2009.
 
 ### Workshops
 
@@ -832,9 +845,6 @@ Workshop, Graduate Teaching Assistant Workshop, Department of History, Universit
 
 *Undergraduate Advising*
 
--   Cory Starman, Haphastian Naming, University of Nebraska at Omaha,
-    2018-2019 
--   Lukas Wegener, American Indian Digital History Project, University of Nebraska at Omaha, 2018
 -   Julia Laurence, Crowdsourcing Railroads, Stanford University, 2015
 -   Rahul Singireddy, Chinese Input, Stanford University, 2015
 -   KJ Fryauff, Follow the Money Project, Stanford University, 2015
@@ -842,6 +852,15 @@ Workshop, Graduate Teaching Assistant Workshop, Department of History, Universit
 -   Jocelyn Hickcox, Geography of the Post, Stanford University, 2013
 -   Tara Balakrishnan, Geography of the Post, Stanford University, 2013
 -   Jared Roehrich, William F. Cody Archive, University of Nebraska-Lincoln, 2011--2012
+
+*Student Supervision & Management*
+
+- Alex Ramsey, American Indian Digital History Project, UNO, 2020
+- Aaron Burbach, American Indian Digital History Project, UNO, 2020
+- Haji Salad, Mobile Community Archives, UNO, 2019-2020
+- Sara Ibrahim, Mobile Community Archives, UNO, 2019
+- Isis Hernandez-Troche, Mobile Community Archives, UNO, 2018-2019
+- Cory Starman, Haphastian Place Naming, UNO, 2018-2019 
 
 ### Directed Readings, Independent Studies, and Creative Projects
 
@@ -873,7 +892,8 @@ Applications: Microsoft Office, Adobe Photoshop, Adobe Illustrator
 
 # Languages
 
-English (native), Spanish (reading)
+English (native proficiency), Norwegian (bokm\r{a}l) (beginner), Dutch
+(beginner)
 
 # Professional Organizations and Service
 
@@ -913,14 +933,15 @@ Libraries and Digital Humanities Special Interest Group, 2017--*present*
 
 *Service to the Profession*
 
-Referee for these journals, publishers, grant agencies, and academic software
-repositories: *The Programming Historian*, *The Public Historian*, National Endowment for the Humanities.
+Referee for these journals, publishers, grant agencies, and academic software repositories: *The Programming Historian*, *The Public Historian*, National Endowment for the Humanities.
 
 **Departmental / College / University Service**
 
 ### University Committees
 
 *University of Nebraska at Omaha*
+
+Member, University Committee for the Advancement of Teaching, 2020--*present*
 
 Member, University Committee on Technology Resources, Services, and Planning,
 2019--*present*.
@@ -1009,8 +1030,6 @@ the Humanities, 2008--2009.
 
 *University of Nebraska at Omaha*
 
-Member, Committee on Technology, Resources, and Services, University of Nebraska at Omaha, 2019--*present*.
-
 Organizer, Digital Humanities Community of Practice, UNO Libraries, 2018--*present*.
 
 Organizer, R User Group, UNO Libraries, 2019--*present*.
@@ -1038,23 +1057,21 @@ Member, UNL Libraries Graduate Student Advisory Board, 2010--2012.
 
 ### Community Service
 
-<!--
-Member, Working Group on Capacity and Governance, Environmental Data & Governance Initiative, 2018--*present*.
--->
+Member, Environmental History Action Collaborative, Environmental Data & Governance Initiative, 2020--*present*.
 
-Deputy voter registrar, Douglas County, Nebraska, certified March 2018. 
+Deputy voter registrar, Douglas County, Nebraska, certified March 2018.
 
 Member, Mode Shift Omaha, Omaha, Nebraska, 2017--*present*.
 
 Member, Bike Omaha Network Committee, LiveWell, Omaha, Nebraska, 2017--*present*.
 
-Graduate Student Volunteer, History Harvest, Nebraska Public Television,
-University of Nebraska-Lincoln, Lincoln, Nebraska, 2010.
+Graduate Student Volunteer, History Harvest, Nebraska Public Television, University of Nebraska-Lincoln, Lincoln, Nebraska, 2010.
 
-Judge, National History Day, Nebraska State Competition, Nebraska
-Wesleyan University, Lincoln, Nebraska, 2009.
+Judge, National History Day, Nebraska State Competition, Nebraska Wesleyan University, Lincoln, Nebraska, 2009.
 
 ### Other Professional Service
+
+Member, Committee for Equity and Inclusion, Digital Library Federation, 2020--*present*.
 
 Community Representative, Digital Public Library of America, 2017--2018.
 
