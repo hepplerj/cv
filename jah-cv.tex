@@ -1,15 +1,9 @@
 % Curriculum vitae
 % Jason A. Heppler | jason@jasonheppler.org | http://jasonheppler.org
-% Updated: 2017-06-13 
+% Updated: 2020-01-24
 
-%%% 
-
+%%% Packages
 \documentclass[10pt]{article}
-
-%%%------------------------------------------------------------------------
-%%% Packages 
-%%%------------------------------------------------------------------------
-
 \usepackage{microtype}
 \frenchspacing
 \usepackage[letterpaper,margin=1in]{geometry}
@@ -21,8 +15,11 @@
 \usepackage{fancyhdr}
 \pagestyle{plain}
 \frenchspacing
+\usepackage[usenames,dvipsnames]{xcolor}
 \usepackage{noto}
+% \usepackage[default,regular,black]{sourceserifpro}
 \usepackage[T1]{fontenc}
+\usepackage{fontawesome}
 
 %%%------------------------------------------------------------------------
 %%% Metadata
@@ -35,18 +32,19 @@
 \def\mybibliocommand{}
 \def\mysubtitle{}
 \def\myaffiliation{University of Nebraska at Omaha}
-\def\myjob{Director, Digital Engagement Lab}
-\def\mycourtesy{Digital Engagement Librarian}
-\def\myaddress{Center for Digital Engagement}
+\def\myjob{Digital Engagement Librarian}
+\def\mycourtesy{Assist. Prof. of History}
+\def\myaddress{UNO Libraries \& Dept. of History}
 \def\myemail{jason@jasonheppler.org}
 \def\myweb{http://jasonheppler.org}
 \def\myphone{+1 402 909-1323}
 \def\mytwitter{jaheppler}
 \def\mygithub{hepplerj}
 \def\mypgp{7194 C159 B68D A2B3}
+%\def\myorcid{0000-0003-4158-6186}
 
-\date{} % not used (revision control instead)
-\def\mykeywords{Jason, Heppler, Jason Heppler, Vita, CV, Resume, History, Libraries}
+\date{} 
+\def\mykeywords{Jason, Heppler, Jason Heppler, Vita, CV, Resume}
 
 % HEADINGS
 \usepackage{sectsty}
@@ -61,7 +59,6 @@
 \titlespacing\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
 % disables chapter, section and subsection numbering
 \setcounter{secnumdepth}{-1}
-\usepackage[usenames,dvipsnames]{xcolor}
 % tightlist fix
 \def\tightlist{}
 
@@ -70,15 +67,6 @@
 %%%------------------------------------------------------------------------
 
 \PassOptionsToPackage{hyphens}{url}\usepackage[hidelinks, breaklinks, pdftex, pdftitle={Jason A. Heppler - CV}, pdfauthor={Jason A. Heppler}]{hyperref}
-\hypersetup{
-  colorlinks   = true,
-  allcolors    = RoyalBlue 
-}
-
-%\usepackage[sfdefault]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
-%\usepackage[T1]{fontenc}
-\renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
-\usepackage{fontawesome}
 
 %%%------------------------------------------------------------------------
 %%% Document 
@@ -108,16 +96,17 @@
 %%%------------------------------------------------------------------------
 
 \noindent{\LARGE Jason A. Heppler, PhD}\\[-0.1in] \\
-\noindent{\footnotesize \emph{curriculum vitae}}
 
 \vskip 0.05in
 
+\noindent{\footnotesize \textemdash} \\
+\noindent{\normalsize \myaddress} \\
+\noindent{\normalsize University of Nebraska at Omaha} \\ 
+\noindent{\footnotesize \textemdash} \\
+
 \begin{minipage}[t]{2.95in}
-  \flushleft {\footnotesize
-  %\myjob \\
-  \mycourtesy \\
-  UNO Libraries \& Dept. of History \\ 
-  University of Nebraska at Omaha \\
+  \flushleft {
+  \footnotesize
   6001 Dodge Street \\
   \vspace{-0.05in} Omaha, \textsc{NE} 68182}
 \end{minipage}
@@ -128,14 +117,9 @@
 \hfill
 \begin{minipage}[t]{3.5in}
   \flushleft \footnotesize
-  \faEnvelopeO  \texttt{\href{mailto:\myemail}{\myemail}} \\
-  \faPhone \myphone \\
-  \faGlobe \texttt{\href{\myweb}{\myweb}} \\ 
-  \faTwitterSquare \texttt{\href{http://twitter.com/jaheppler}{\mytwitter}} \\
-  %\faGithubSquare \texttt{\href{http://github.com/hepplerj}{\mygithub}} \\
-  %\faLinkedinSquare \texttt{\href{http://linkedin.com/in/jasonheppler/}{jasonheppler}} \\
-  \faBook \texttt{\href{https://orcid.org/0000-0003-4158-6186}{0000-0003-4158-6186}} \\
-  \faUserSecret \texttt{\href{https://keybase.io/jaheppler}{\mypgp}}
+  \texttt{\href{mailto:\myemail}{\myemail}} \\
+  \texttt{\href{\myweb}{\myweb}} \\ 
+  \texttt{\href{https://orcid.org/0000-0003-4158-6186}{0000-0003-4158-6186}} \\ 
 \end{minipage}
 
 \vskip 0.5in
