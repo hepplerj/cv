@@ -3,35 +3,45 @@ layout: cv
 title: "Jason A. Heppler - CV"
 ...
 
-# Positions 
+# Professional Experience 
 
-January 2017--*present*
+**University of Nebraska at Omaha**, Omaha, NE, UNO Libraries  
 
-**Digital Engagement Librarian**, University of Nebraska at Omaha Libraries (Omaha, Nebr.)
+\quad Digital Engagement Librarian, Assistant Professor, 2017 --  
 
-**Subject Specialist, History**, University of Nebraska at Omaha Libraries (Omaha, Nebr.)
+\quad Subject Specialist, History, 2019 --  
 
-**Assistant Professor of History (by courtesy)**, University of Nebraska at Omaha (Omaha, Nebr.)
+\quad Sustainability Faculty, Sustainability Minor Program, 2018 --  
 
-**Sustainability Faculty**, Sustainability Minor Program, University of Nebraska at Omaha (Omaha, Nebr.)
-
-**Research Affiliate**, Spatial History Project, Stanford University (Stanford, Calif.)
+\quad Interim Institutional Repository Coordinator, 2021 --  
 
 \vspace{.4cm}
 
-March 2017--*present*
+**University of Nebraska at Omaha**, Omaha, NE, Department of History  
 
-**Co-founder and organizer**, [Endangered Data Week](https://endangereddataweek.org)
+\quad Assistant Professor of History (by courtesy), 2017 --
 
 \vspace{.4cm}
 
-January 2013--December 2016
+**Stanford University**, Stanford, CA, [Center for Interdisciplinary Digital Research](http://cidr.stanford.edu) (CIDR)  
 
-**Academic Technology Specialist**, [Department of History](http://history.stanford.edu) and [Center for Interdisciplinary Digital Research](http://cidr.stanford.edu) (CIDR), Stanford University (Stanford, Calif.)
+\quad Research affiliate, Spatial History Project, 2017 --
 
-**Research Staff**, [Center for Spatial and Textual Analysis](http://cesta.stanford.edu) (CESTA), Stanford University (Stanford, Calif.)
+\quad Academic Technology Specialist, Department of History, 2013 -- 2017
 
-**Lecturer**, Department of History, Stanford University (Stanford, Calif.)
+\quad Research staff, [Center for Spatial and Textual Analysis](http://cesta.stanford.edu) (CESTA), 2013 -- 2017
+
+\vspace{.4cm}
+
+**Stanford University**, Stanford, CA, Department of History  
+
+\quad Lecturer, 2013 -- 2016
+
+\vspace{.4cm}
+
+**[Endangered Data Week](https://endangereddataweek.org)**
+
+\quad Co-founder and organizer, 2017 --
 
 \vspace{0.2cm}
 
@@ -63,15 +73,15 @@ North American West $\cdot$ Twentieth-century United States $\cdot$ Digital Hist
 
 # Education
 
-**PhD, History**, University of Nebraska-Lincoln (2016)    
+**University of Nebraska-Lincoln**, Ph.D., Department of History, August 2016  
 *Dissertation*: "[Machines in the Valley: Community, Urban Change, and Environmental Politics in Silicon Valley, 1945--1990](http://digitalcommons.unl.edu/historydiss/86/)." *Advisors*: Patrick Jones (chair), William G. Thomas, Margaret Jacobs, James Garza, Stephen Ramsay  
 
-**MA, History**, University of Nebraska-Lincoln (2009)  
+**University of Nebraska-Lincoln**, M.A., Department of History,  May 2009  
 *Thesis*: "[Framing Red Power: The Trail of Broken Treaties, the American
 Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/historydiss/21/)." *Advisors*: John Wunder (chair), Douglas Seefeldt, Thomas Gannon  
 
-**BA, History**, South Dakota State University (2007)  
-*Thesis*: "'We Lit a Fire Across Indian Country': The American Indian Movement and the Intellectual Origins of Red Power" *Minor*: Economics
+**South Dakota State University**, B.A., History, May 2007  
+*Undergraduate Thesis*: "'We Lit a Fire Across Indian Country': The American Indian Movement and the Intellectual Origins of Red Power" *Minor*: Economics
 
 # Research
 
@@ -79,7 +89,11 @@ Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/histor
 
 *[Digital Community Engagement: Partnering Communities with the Academy](https://ucincinnatipress.manifoldapp.org/projects/digital-community-engagement)*. Co-editor with Rebecca Wingo and Paul Schadewald. Cincinnati: University of Cincinnati Press, 2020. 
 
-*The Nature of the Valley: Politics and the Environment in Postwar Silicon Valley*. Environment in Modern North America series. Norman: University of Oklahoma Press, under contract.
+- Awarded the National Council on Public History (NCPH) Book Award, 2021
+
+### Books in Development
+
+*The Nature of the Valley: Politics and the Environment in Postwar Silicon Valley*. Environment in Modern North America series. Norman: University of Oklahoma Press, under contract, 2022.
 
 *California Rising: A New Urban History*. Co-editor with Lindsey Wieck. Lincoln: University of Nebraska Press, under contract.
 
@@ -97,6 +111,8 @@ Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/histor
 Michael Childers, Kent Blansett, and Jason A. Heppler, "Field Notes: Blogwest," *Western Historical Quarterly* (forthcoming).
 -->
 
+Jeanne Reames, Jason A. Heppler, and Cory Starman, "Becoming Macedonian: Name Mapping and Ethnic Identity. The Case of Hjphaistion." *Karanos. Bulletin of Ancient Macedonian Studies* (2020), 3, 11-37.
+
 Heidi Blackburn and Jason A. Heppler, "Who is Writing about Women in STEM in Higher Education? A Citation Analysis of Gendered Authorship," *Frontiers in Psychology* 10 (2020). <https://doi.org/10.3389/fpsyg.2019.02979>
 
 Heidi Blackburn and Jason A. Heppler, "Women in STEM in Higher Education: A Citation Analysis of the Current Literature," *Science & Technology Libraries* (2019). <https://doi.org/10.1080/0194262X.2019.1645080>
@@ -109,9 +125,17 @@ Gabriel Wolfenstein and Jason A. Heppler, "[Crowdsourcing Public Digital History
 
 Alex Galarza, Douglas Seefeldt, and Jason A. Heppler, "[A Call to Redefine Historical Scholarship in the Digital Turn](http://journalofdigitalhumanities.org/1-4/a-call-to-redefine-historical-scholarship-in-the-digital-turn/)," *Journal of Digital Humanities*, December 2012.
 
-### Peer Reviewed Book Chapters
+### Articles
 
-"Creating Capacity for Research Data Services at Regional Universities: A Case Study," co-author with Omer Farooq and Kate Ehrig-Page, in *Teaching Research Data Management*, ed. Julia Bauder, in progress.
+"[How Silicon Valley provides the blueprint for cleaning up our drinking water](https://www.washingtonpost.com/outlook/2019/04/26/how-silicon-valley-provides-blueprint-cleaning-up-our-drinking-water/)," *The Washington Post*, April 26, 2019.
+
+"Advocacy, Training, and Awareness Through Endangered Data Week," co-author with Brandon Locke, Sarah Melton, and Rachel Mattson, *Parameters*, SSRC, February 26, 2018.
+
+"[How Silicon Valley Industry Polluted the Sylvan California Dream](https://theconversation.com/how-silicon-valley-industry-polluted-the-sylvan-california-dream-85810)," *The Conversation*, November 15, 2017.
+
+### Book Chapters
+
+"Creating Capacity for Research Data Services at Regional Universities: A Case Study," co-author with Omer Farooq and Kate Ehrig-Page, in *Teaching Research Data Management*, ed. Julia Bauder, forthcoming.
 
 "Humanistic Approaches to Data Visualization," in *The Companion to Digital History*, ed. David Staley. Hoboken: Wiley and Sons, forthcoming.
 
@@ -121,15 +145,7 @@ Alex Galarza, Douglas Seefeldt, and Jason A. Heppler, "[A Call to Redefine Histo
 
 ### Other Academic Publications 
 
-"Advocacy, Training, and Awareness Through Endangered Data Week," co-author with Brandon Locke, Sarah Melton, and Rachel Mattson, *Parameters*, SSRC, February 26, 2018. <https://items.ssrc.org/author/jason-a-heppler/> 
-
 Arguing with Digital History working group, "Digital History and Argument," white paper, Roy Rosenzweig Center for History and New Media, George Mason University, November 13, 2017: <http://rrchnm.org/argument-white-paper/>.
-
-### Select Media Publications \& Interviews
-
-"[How Silicon Valley provides the blueprint for cleaning up our drinking water](https://www.washingtonpost.com/outlook/2019/04/26/how-silicon-valley-provides-blueprint-cleaning-up-our-drinking-water/)," *The Washington Post*, April 26, 2019.
-
-"[How Silicon Valley Industry Polluted the Sylvan California Dream](https://theconversation.com/how-silicon-valley-industry-polluted-the-sylvan-california-dream-85810)," *The Conversation*, November 15, 2017.
 
 ### Electronic Books
 
@@ -226,6 +242,8 @@ the Modern Landscape," in *The Digital History Project* (February 2008).
 
 # Public History and Public Humanities Experience
 
+**Affiliate faculty**, *Omaha Spatial Justice Project* (2021--*present*). A database and digital mapping platform exploring redlining in the city of Omaha.
+
 **Primary investigator and director**, *[Nebraska Historical](http://svhistorical.org)* (2018--*present*). An online spatial exhibit on the history of Nebraska.
 
 **Research director**, *American Indian Digital History Project* (2016--*present*). An Omeka exhibit of material on American Indian history. Served as a technical advisor in deciding on and setting up technical infrastructure, metadata design, and document digitization. Primary investigator: Kent Blansett.
@@ -247,9 +265,9 @@ the Modern Landscape," in *The Digital History Project* (February 2008).
 
 **Organizer** and **Project Lead**, *[Mozilla Global Sprint 2017](https://mozilla.github.io/global-sprint/)*, Omaha, Nebraska (2017). I coordinated and hosted Global Sprint 2017 to bring together scientists, educators, artists, engineers, and others to hack and build projects for a healthy internet. We focused our project around [Open Omaha](http://github.com/open-omaha/).
 
-**Project Lead and Manager**, *Mobile Digitization for Rural Community Archives*, Omaha, Nebraska (2017-*present*). With a grant from the LYRASIS Catalyst Fund, we initiated a pilot program for a mobile digitization lab and maker space for working with rural community archives and Tribal colleges.
+**Project Lead**, *Mobile Digitization for Rural Community Archives*, Omaha, Nebraska (2017-*present*). With a grant from the LYRASIS Catalyst Fund, we initiated a pilot program for a mobile digitization lab and maker space for working with rural community archives and Tribal colleges.
 
-**Founding Member and Project Lead**, *[Endangered Data Week](http://endangereddataweek.org)*, Omaha, Nebraska (2017--*present*). Helped organize the first international Endangered Data Week, a collaborative effort among campuses, nonprofits, libraries, citizen science initiatives, and cultural heritage institutions. EDW is designed to shed light on public datasets that are in danger of being deleted, repressed, mishandled, or lost. Our sponsors included the Digital Library Federation and their Records Transparency and Accountability Interest Group, the Council on Library and Information Resources, the National Digital Stewardship Alliance, Data Refuge, and the Mozilla Science Lab.
+**Founding Member and Organizer**, *[Endangered Data Week](http://endangereddataweek.org)*, Omaha, Nebraska (2017--*present*). Helped organize the first international Endangered Data Week, a collaborative effort among campuses, nonprofits, libraries, citizen science initiatives, and cultural heritage institutions. EDW is designed to shed light on public datasets that are in danger of being deleted, repressed, mishandled, or lost. Our sponsors included the Digital Library Federation and their Records Transparency and Accountability Interest Group, the Council on Library and Information Resources, the National Digital Stewardship Alliance, Data Refuge, and the Mozilla Science Lab.
 
 **Presenter**, *Information Exchange*, Omaha, Nebraska (2017). An event devoted to helping communities locate and strategize methods to provide better access to information, generate ideas about what libraries are and how knowledge can be shared within a community to improve the lives of its citizens.
 
@@ -565,8 +583,7 @@ Plains Studies Symposium, March 2012, Lincoln, Nebraska.
 
 ### External ($42,650)
 
-Public Engagement with Historical Records, National Historical Publications &
-Records Commission, National Archives, not awarded.
+Public Engagement with Historical Records, National Historical Publications & Records Commission, National Archives, not awarded.
 
 Toward an Open Monograph Ecosystem (TOME), 2019, awarded, $15,000.
 
@@ -584,7 +601,7 @@ Nebraska Humanities Council Mini Grant, James A. Rawley Conference, University o
 
 ### Internal ($9,105)
 
-Civic Participation Project, University of Nebraska at Omaha, 2020, $1,000.
+Civic Participation Grant, University of Nebraska at Omaha, 2020, $1,000.
 
 Eugene and Sunny Thomas Fund, University of Nebraska at Omaha Libraries, University of Nebraska at Omaha, 2018, $5,500.
 
@@ -619,13 +636,20 @@ August Edgren Fellowship, College of Arts and Sciences, University of Nebraska-L
 
 # Professional Development
 
+*Equity in Action: Fostering an Antiracist Library Culture*, Library Journal, February 23-March 9, 2021.
+
+"Digital Humanities and Spatial History: Atlantic World Stories," by Zephyr Frank, UCL Centre for Digital Humanities, February 23, 2021.
+
+*The Power of Allies for an Inclusive Culture*, American Management
+Association, February 18, 2021. 
+
 *Introduction to Norwegian II*, University of Oslo (UiO), via Future Learn. Completed 2020.
 
 *Indigenous Canada*, University of Alberta. Completed 2020.
 
 *Elements of AI*, University of Helsinki. Completed 2020.
 
-*How do we respond to anti-Black racism in urbanist practices and conversations?," Canadian Urban Institute, June 10, 2020.
+"How do we respond to anti-Black racism in urbanist practices and conversations?," Canadian Urban Institute, June 10, 2020.
 
 *Keep Teaching Summer Series*, Office of Digital Learning, University of Nebraska at Omaha, weekly webinar series, June 24--August 4, 2020.
 
