@@ -479,6 +479,8 @@ Sandoz Heritage Society Conference, March 2008, Chadron, Nebraska.
 
 ### Working Groups/Workshops
 
+Attendee, National Council on Public History Annual Meeting, March 2021, virtual.
+
 Attendee, *Data Practices Conference*, Stanford University, October 2020, Stanford, California (virtual).
 
 Attendee, *Practicing Pedagogies Summer Teaching Summit*, University of Nebraska-Lincoln, May 2020, Lincoln, Nebraska (virtual). 
@@ -920,21 +922,14 @@ English (native proficiency), Norwegian (bokm\r{a}l) (beginner proficiency)
 
 # Professional Organizations and Service
 
-### Membership in Professional and Community Organizations
+### Membership in Professional Organizations
 
 American Historical Association
 Western History Association  
 Organization of American Historians  
-American Library Association  
 National Council on Public History  
 American Society for Environmental History  
-Association for Computers and the Humanities  
-Nebraska Library Association  
-Nebraska Educational Technology Association
-
-The League of American Bicyclists  
-Bike Omaha Network  
-Mode Shift Omaha
+Association for Computers and the Humanities
 
 ### Offices in Professional Organizations
 
@@ -958,9 +953,13 @@ Program reviewer, Digital Humanities Conference 2017, ADHO Conference Coordinati
 
 Libraries and Digital Humanities Special Interest Group, 2017--*present*
 
+\vspace{.4cm}
+
 *Service to the Profession*
 
 Referee for these journals, publishers, grant agencies, and academic software repositories: *The Programming Historian*, *The Public Historian*, National Endowment for the Humanities.
+
+\vspace{.4cm}
 
 **Departmental / College / University Service**
 
@@ -990,7 +989,7 @@ Organizer, Endangered Data Week, UNO Libraries, April 2017.
 
 Member, De-stress Fest Committee, UNO Libraries, 2017.
 
-Member, Triple Bottom Line Committee, UNO Libraries, 2017--*present* (Committee chair, 2017--*present*) -- Subcommittee on Recycling (2017--*present*); Subcommittee on Outreach (2019--*present*).
+Member, Triple Bottom Line Committee, UNO Libraries, 2017--*present* (Committee chair, 2017--2019)
 
 \vspace{.4cm}
 
