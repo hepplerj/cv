@@ -5,45 +5,47 @@ title: "Jason A. Heppler - CV"
 
 # Professional Experience 
 
-**University of Nebraska at Omaha**, Omaha, NE, UNO Libraries  
+**George Mason University**, Fairfax, VA
 
-\quad Digital Engagement Librarian, Assistant Professor, 2017 --  
+\quad Senior Web Developer, Center for History and New Media, 2021 --
+*present*
 
-\quad Subject Specialist, History, 2019 --  
-
-\quad Sustainability Faculty, Sustainability Minor Program, 2018 --  
-
-\quad Interim Institutional Repository Coordinator, 2021 --  
+\quad Adjunct Faculty, Department of History and Art History, 2021 --
+*present* 
 
 \vspace{.4cm}
 
-**University of Nebraska at Omaha**, Omaha, NE, Department of History  
+**University of Nebraska at Omaha**, Omaha, NE
 
-\quad Assistant Professor of History (by courtesy), 2017 --
+\quad Digital Engagement Librarian, UNO Libraries, 2017 -- 2021  
+
+\quad Assistant Professor of History (by courtesy), 2017 -- 2021
+
+\quad Subject Specialist, History, UNO Libraries, 2019 -- 2021  
+
+\quad Sustainability Faculty, Sustainability Minor Program, 2018 -- 2021  
+
+\quad Interim Institutional Repository Coordinator, 2021  
 
 \vspace{.4cm}
 
-**Stanford University**, Stanford, CA, [Center for Interdisciplinary Digital Research](http://cidr.stanford.edu) (CIDR)  
+**Stanford University**, Stanford, CA
 
-\quad Research affiliate, Spatial History Project, 2017 --
-
-\quad Academic Technology Specialist, Department of History, 2013 -- 2017
+\quad Academic Technology Specialist, Department of History and [Center for Interdisciplinary Digital Research](http://cidr.stanford.edu) (CIDR), 2013 -- 2017
 
 \quad Research staff, [Center for Spatial and Textual Analysis](http://cesta.stanford.edu) (CESTA), 2013 -- 2017
 
-\vspace{.4cm}
-
-**Stanford University**, Stanford, CA, Department of History  
-
-\quad Lecturer, 2013 -- 2016
+\quad Lecturer, Department of History, 2013 -- 2016
 
 \vspace{.4cm}
 
 **[Endangered Data Week](https://endangereddataweek.org)**
 
-\quad Co-founder and organizer, 2017 --
+\quad Co-founder and organizer, 2017 -- *present*
 
 \vspace{0.2cm}
+
+\newpage
 
 ### Major Affiliations and Fellowships
 
@@ -57,15 +59,13 @@ title: "Jason A. Heppler - CV"
 
 \vspace{0.2cm}
 
-\newpage
-
 ### Editorial Appointments
 
-**Editorial Board**, *Studies in Midwestern History*, Midwestern History Association (2017--*present*)
-
-**Editorial Board**, *[The Middle West Review](https://uimiddle.wordpress.com/)*, University of Nebraska Press (2014--*present*)
-
 **Digital Content Advisory Board**, *[The American Yawp](http://www.americanyawp.com/)* (2014--*present*)
+
+**Editorial Board**, *Studies in Midwestern History*, Midwestern History Association (2017--2021)
+
+**Editorial Board**, *[The Middle West Review](https://uimiddle.wordpress.com/)*, University of Nebraska Press (2014--2021)
 
 # Areas of Research and Teaching
 
@@ -87,9 +87,8 @@ Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/histor
 
 ### Books
 
-*[Digital Community Engagement: Partnering Communities with the Academy](https://ucincinnatipress.manifoldapp.org/projects/digital-community-engagement)*. Co-editor with Rebecca Wingo and Paul Schadewald. Cincinnati: University of Cincinnati Press, 2020. 
-
-- Awarded the National Council on Public History (NCPH) Book Award, 2021
+*[Digital Community Engagement: Partnering Communities with the Academy](https://ucincinnatipress.manifoldapp.org/projects/digital-community-engagement)*. Co-editor with Rebecca Wingo and Paul Schadewald. Cincinnati: University of Cincinnati Press, 2020.  
+\quad $\cdot$ Awarded the National Council on Public History (NCPH) Book Award, 2021
 
 ### Books in Development
 
@@ -205,6 +204,8 @@ Co-host, [The First Draft Podcast](http://www.fiddly.fm/firstdraft/), with Elija
 
 Review essay, "Mobile Digital Public History," in *International Public History* (forthcoming).
 
+Review of Kathleen A. Cairns *At Home In the World: California Women and the Postwar Environmental Movement* (University of Nebraska Press), in the *Pacific Historical Review* (forthcoming).
+
 Review of Trevor Owens, *The Theory and Craft of Digital Preservation* (Johns Hopkins University Press), in *The Public Historian* (May 2020). <https://doi-org.leo.lib.unomaha.edu/10.1525/tph.2020.42.2.160>
 
 Review of Walter Nugent, *Color Coded: Party Politics in the American West, 1950-2016* (University of Oklahoma Press), in *South Dakota History* (April 2020).
@@ -242,8 +243,6 @@ the Modern Landscape," in *The Digital History Project* (February 2008).
 
 # Public History and Public Humanities Experience
 
-**Affiliate faculty**, *Omaha Spatial Justice Project* (2021--*present*). A database and digital mapping platform exploring redlining in the city of Omaha.
-
 **Primary investigator and director**, *[Nebraska Historical](http://svhistorical.org)* (2018--*present*). An online spatial exhibit on the history of Nebraska.
 
 **Research director**, *American Indian Digital History Project* (2016--*present*). An Omeka exhibit of material on American Indian history. Served as a technical advisor in deciding on and setting up technical infrastructure, metadata design, and document digitization. Primary investigator: Kent Blansett.
@@ -257,7 +256,7 @@ the Modern Landscape," in *The Digital History Project* (February 2008).
 # Community Outreach and Engagement
 
 **Consultant**, *[Making Invisible Histories Visible](http://invisiblehistory.ops.org)*, Omaha, Nebraska
-(2017--*present*). This program invites twenty-four high school freshmen from Omaha Public Schools to take part in a summer program focused on the history of their city. I serve as a consultant primarily on mapping and digitally-interactive aspects of the projects produced in the program.
+(2017--2021). This program invites twenty-four high school freshmen from Omaha Public Schools to take part in a summer program focused on the history of their city. I serve as a consultant primarily on mapping and digitally-interactive aspects of the projects produced in the program.
 
 **Consultant**, Calgary Stampede, Calgary, Alberta, Canada (2019). Provided feedback and advice on migrating from PastPerfect to Omeka for collections management and suggestions on possible alternatives for Omeka for working with community volunteers.
 
@@ -265,7 +264,7 @@ the Modern Landscape," in *The Digital History Project* (February 2008).
 
 **Organizer** and **Project Lead**, *[Mozilla Global Sprint 2017](https://mozilla.github.io/global-sprint/)*, Omaha, Nebraska (2017). I coordinated and hosted Global Sprint 2017 to bring together scientists, educators, artists, engineers, and others to hack and build projects for a healthy internet. We focused our project around [Open Omaha](http://github.com/open-omaha/).
 
-**Project Lead**, *Mobile Digitization for Rural Community Archives*, Omaha, Nebraska (2017-*present*). With a grant from the LYRASIS Catalyst Fund, we initiated a pilot program for a mobile digitization lab and maker space for working with rural community archives and Tribal colleges.
+**Project Lead**, *Mobile Digitization for Rural Community Archives*, Omaha, Nebraska (2017-2021). With a grant from the LYRASIS Catalyst Fund, we initiated a pilot program for a mobile digitization lab and maker space for working with rural community archives and Tribal colleges.
 
 **Founding Member and Organizer**, *[Endangered Data Week](http://endangereddataweek.org)*, Omaha, Nebraska (2017--*present*). Helped organize the first international Endangered Data Week, a collaborative effort among campuses, nonprofits, libraries, citizen science initiatives, and cultural heritage institutions. EDW is designed to shed light on public datasets that are in danger of being deleted, repressed, mishandled, or lost. Our sponsors included the Digital Library Federation and their Records Transparency and Accountability Interest Group, the Council on Library and Information Resources, the National Digital Stewardship Alliance, Data Refuge, and the Mozilla Science Lab.
 
@@ -303,7 +302,7 @@ History Club Graduate School Symposium, South Dakota State University, October 2
 
 "Hidden Voices: A Data Analysis of Subject Headings for Books on Women in Science," with Heidi Blackburn, American Women of Science: Recovering History, Defining the Future 2020 Symposium, Smithsonian American Women's History Initiative, October 2020, virtual.
 
-"Using data visualization to analyze topic development by business communication students in a one-shot setting," Brick & Click: An Academic Library Conference, November 2019, Maryville, MO.  
+"Using data visualization to analyze topic development by business communication students in a one-shot setting," Brick & Click: An Academic Library Conference, November 2019, Maryville, Missouri.  
 
 "A citation analysis of journals publishing research on women in STEM in higher education," American Library Association Annual Conference, June 2019, Washington, D.C.
 
@@ -570,9 +569,9 @@ Nebraska-Lincoln, October 2009.
 
 ### Posters
 
-"Using Maps and Metadata to Teach the History of Silicon Valley," Third Annual
-Academic Technology Expo, Stanford University, October 2016, Stanford,
-California.
+"Hidden Voices: A Data Analysis of Subject Headings for Books on Women in STEM," with Heidi Blackburn, Association of College & Research Libraries Annual (ACRL) Meeting 2021, April 2021, virtual.
+
+"Using Maps and Metadata to Teach the History of Silicon Valley," Third Annual Academic Technology Expo, Stanford University, October 2016, Stanford, California.
 
 Electronic poster session, "Mapping Silicon Valley's Environmentalism," 130th
 Annual Meeting of the American Historical Association, January 2016, Atlanta,
@@ -697,7 +696,7 @@ Red Hat Summit, sessions on AI, data, code, diversity and inclusion, and analyti
 
 "Open Leadership 101," Mozilla Foundation, 2017.
 
-"Pre-Tenure Faculty Leadership Forum," University of Nebraska at Omaha, 2017--*present*.
+"Pre-Tenure Faculty Leadership Forum," University of Nebraska at Omaha, 2017--2021.
 
 Computation + Journalism Symposium, Stanford University, September 2016.
 
@@ -766,7 +765,7 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
 -   R, Interactive Graphics, and Data Visualization for the Humanities, with Lincoln Mullen (June 2016)
 
-**University of Nebraska at Omaha (2017-present)**
+**University of Nebraska at Omaha (2017-2021)**
 
 *Courses*
 
@@ -781,7 +780,7 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 -   Guest lecture for HIST 1000: World Civilizations (Fall 2018)
 -   Guest lecture for HIST 4910: Vietnam War (Fall 2018)
 -   Guest lecture for HIST 4400: Native American History (Fall 2018)
--   Guest lecture for HIST 2980: Historical Methodology (Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019)
+-   Guest lecture for HIST 2980: Historical Methodology (Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020)
 -   Guest lecture for ENGL 3000: Louise Erdrich (Spring 2018)
 -   Guest lecture for PA 3000: Applied Statistics and Data Management (Fall
     2017)
@@ -929,7 +928,8 @@ Western History Association
 Organization of American Historians  
 National Council on Public History  
 American Society for Environmental History  
-Association for Computers and the Humanities
+Association for Computers and the Humanities  
+Society for American City and Regional Planning History
 
 ### Offices in Professional Organizations
 
@@ -957,7 +957,7 @@ Libraries and Digital Humanities Special Interest Group, 2017--*present*
 
 *Service to the Profession*
 
-Referee for these journals, publishers, grant agencies, and academic software repositories: *The Programming Historian*, *The Public Historian*, National Endowment for the Humanities.
+Referee for these journals, publishers, grant agencies, and academic software repositories: *The Programming Historian*, *The Public Historian*, *Pacific Historical Review*, National Endowment for the Humanities.
 
 \vspace{.4cm}
 
@@ -967,11 +967,11 @@ Referee for these journals, publishers, grant agencies, and academic software re
 
 *University of Nebraska at Omaha*
 
-Member, University Committee for the Advancement of Teaching, 2020--*present*
+Member, University Committee for the Advancement of Teaching, 2020--2021.
 
-Member, University Committee on Technology Resources, Services, and Planning, 2019--*present*.
+Member, University Committee on Technology Resources, Services, and Planning, 2019--2021.
 
-Member, Sustainability Curriculum Committee, 2019--*present*
+Member, Sustainability Curriculum Committee, 2019--2021.
 
 ### College Committees
 
@@ -989,7 +989,7 @@ Organizer, Endangered Data Week, UNO Libraries, April 2017.
 
 Member, De-stress Fest Committee, UNO Libraries, 2017.
 
-Member, Triple Bottom Line Committee, UNO Libraries, 2017--*present* (Committee chair, 2017--2019)
+Member, Triple Bottom Line Committee, UNO Libraries, 2017--2021 (Committee chair, 2017--2019).
 
 \vspace{.4cm}
 
@@ -1013,7 +1013,7 @@ Secretary/Treasurer, Phi Alpha Theta, 2005--2006.
 
 *University of Nebraska at Omaha*
 
-Member, OER Committee, 2018--*present*.
+Member, OER Committee, 2018--2021.
 
 \vspace{.4cm}
 
@@ -1057,9 +1057,9 @@ the Humanities, 2008--2009.
 
 *University of Nebraska at Omaha*
 
-Organizer, Digital Humanities Community of Practice, UNO Libraries, 2018--*present*.
+Organizer, Digital Humanities Community of Practice, UNO Libraries, 2018--2021.
 
-Organizer, R User Group, UNO Libraries, 2019--*present*.
+Organizer, R User Group, UNO Libraries, 2019--2021.
 
 Faculty Moderator, Student Research and Creative Activity Fair, University of
 Nebraska at Omaha, March 2018, March 2019.
@@ -1090,20 +1090,16 @@ Deputy voter registrar, Douglas County, Nebraska, certified March 2018.
 
 Member, Mode Shift Omaha, Omaha, Nebraska, 2017--*present*.
 
-Member, Bike Omaha Network Committee, LiveWell, Omaha, Nebraska, 2017--*present*.
-
 Graduate Student Volunteer, History Harvest, Nebraska Public Television, University of Nebraska-Lincoln, Lincoln, Nebraska, 2010.
 
 Judge, National History Day, Nebraska State Competition, Nebraska Wesleyan University, Lincoln, Nebraska, 2009.
 
 ### Other Professional Service
 
-Member, Committee for Equity and Inclusion, Digital Library Federation, 2020--*present*.
+Member, Committee for Equity and Inclusion, Digital Library Federation, 2020--2021.
 
 Community Representative, Digital Public Library of America, 2017--2018.
 
 Member, Government Records Transparency and Accountability Group, Digital Library Federation, 2017--*present*.
-
-Member, Advisory Board, American Indian Digital History Project, 2014--*present*.
 
 Digital Content Advisory Board, *[The American Yawp](http://americanyawp.com)* Textbook, 2014--*present*.
