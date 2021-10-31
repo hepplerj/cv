@@ -7,7 +7,7 @@ title: "Jason A. Heppler - CV"
 
 **George Mason University**, Fairfax, VA
 
-\quad Senior Web Developer, Center for History and New Media, 2021 --
+\quad Senior Web Developer, Roy Rosenzweig Center for History and New Media, 2021 --
 *present*
 
 \quad Adjunct Faculty, Department of History and Art History, 2021 --
@@ -59,7 +59,9 @@ title: "Jason A. Heppler - CV"
 
 \vspace{0.2cm}
 
-### Editorial Appointments
+### Editorial and Advisory Appointments
+
+**Advisory Board**, Sourcery (2021--*present*)
 
 **Digital Content Advisory Board**, *[The American Yawp](http://www.americanyawp.com/)* (2014--*present*)
 
@@ -92,7 +94,7 @@ Indian Movement, and the Politics of Media](http://digitalcommons.unl.edu/histor
 
 ### Books in Development
 
-*The Nature of the Valley: Politics and the Environment in Postwar Silicon Valley*. Environment in Modern North America series. Norman: University of Oklahoma Press, under contract, 2022.
+*The Nature of the Valley: Politics, Justice, and the Environment in Postwar Silicon Valley*. Environment in Modern North America series. Norman: University of Oklahoma Press, under contract, 2022.
 
 *California Rising: A New Urban History*. Co-editor with Lindsey Wieck. Lincoln: University of Nebraska Press, under contract.
 
@@ -168,6 +170,12 @@ Project Director, *[Framing Red Power: The Trail of Broken Treaties, the America
 
 ### Collaborative Digital Projects
 
+*Death by Numbers*, Roy Rosenzweig Center for History and New Media, George Mason University (in progress, 2021--): https://deathbynumbers.org. (senior developer) 
+
+*American Religious Ecologies*, Roy Rosenzweig Center for History and New Media, George Mason University (in progress, 2018--): https://religiousecologies.org. (senior developer)
+
+*Collecting These Times: American Jewish Experiences of the Pandemic*, Roy Rosenzweig Center for History and New Media, George Mason University (in progress, 2021--). (senior developer)
+
 *[American Indian Digital History Project](http://aidhp.com)* (2017--*present*): <http://aidhp.com> (research director)
 
 *[Nebraska Historical](https://omahahistorical.org)* (2017--*present*): <https://omahahistorical.org> (project director)
@@ -201,6 +209,8 @@ Co-host, [The First Draft Podcast](http://www.fiddly.fm/firstdraft/), with Elija
 "Superfundr: An R data package on U.S. Superfund sites," R package (2019--*present*): <https://github.com/hepplerj/superfundr/>
 
 ### Reviews
+
+Review of Katie Phillips, "Timeline of Empire," in *Reviews in Digital History* (forthcoming).
 
 Review essay, "Mobile Digital Public History," in *International Public History* (forthcoming).
 
@@ -300,6 +310,10 @@ History Club Graduate School Symposium, South Dakota State University, October 2
 
 ### Papers Presented
 
+<!--"Silicon Valley," Annual Meeting of the Agricultural History Society, August 2022, Stavanger, Norway.-->
+
+"Visualizing Silicon Valley's Urban Spaces," panel on "Visualizing the West: Digital History as Process and Product," 61st Annual Conference of the Western History Association, October 2021, virtual.
+
 "Hidden Voices: A Data Analysis of Subject Headings for Books on Women in Science," with Heidi Blackburn, American Women of Science: Recovering History, Defining the Future 2020 Symposium, Smithsonian American Women's History Initiative, October 2020, virtual.
 
 "Using data visualization to analyze topic development by business communication students in a one-shot setting," Brick & Click: An Academic Library Conference, November 2019, Maryville, Missouri.  
@@ -309,20 +323,15 @@ History Club Graduate School Symposium, South Dakota State University, October 2
 "Creating a Culture of Data Consciousness with Endangered Data Week," Mozilla Festival, October 2018, London, United Kingdom.
 
 "'Piecemeal, Patchwork, Prop-Up': Urban Planning and Environmental Change in
-Postwar Silicon Valley," at "You Are Here": An Interdisciplinary Conference on
-Place, Space, and Embodiment, Creighton University, March 2018, Omaha,
+Postwar Silicon Valley," at "You Are Here": An Interdisciplinary Conference on Place, Space, and Embodiment, Creighton University, March 2018, Omaha,
 Nebraska.
 
-"The Tap Water Rebellion: Pollution, High-Tech Industrialization, and Suburban
-Politics in Silicon Valley," at the American Society for Environmental
-History, March 2018, Riverside, California (did not attend).
+"The Tap Water Rebellion: Pollution, High-Tech Industrialization, and Suburban Politics in Silicon Valley," at the American Society for Environmental History, March 2018, Riverside, California (did not attend).
 
 "*Oskate Wicasa*, Progressive Thought, and the Digital Publics of Buffalo
-Bill's Wild West," 57th Annual Western Historical Association, November 2017,
-San Diego, California.
+Bill's Wild West," 57th Annual Western Historical Association, November 2017, San Diego, California.
 
-"Introducing the American Indian Digital History Project," at the 57th Annual
-Western Historical Association, November 2017, San Diego, California.
+"Introducing the American Indian Digital History Project," at the 57th Annual Western Historical Association, November 2017, San Diego, California.
 
 "Mobile Rural Archives Lab," LYRASIS Member Summit, October 2017,
 Philadelphia, Pennsylvania.
@@ -368,23 +377,19 @@ Historical Association, January 2012, Chicago, Illinois.
 Conference, November 2011, George McGovern Center for Leadership and Public
 Service, Mitchell, South Dakota.
 
-"'This Great and Sovereign Right': Eminent Domain, the Cherokee Nation, and
-Railroad Law, 1880--1890," 50th Annual Conference of the Western History
-Association, October 2010, Incline Village, Nevada.
+"'This Great and Sovereign Right': Eminent Domain, the Cherokee Nation, and Railroad Law, 1880--1890," 50th Annual Conference of the Western History Association, October 2010, Incline Village, Nevada.
 
 "William F. Cody and the Digital Frontier," International Cody Studies
 Conference, August 2010, Cody, Wyoming.
 
-"Framing Red Power: Newspapers and Native Activists during the Trail of Broken
-Treaties," Digital Humanities Summit, March 2010, Lawrence, Kansas.
+"Framing Red Power: Newspapers and Native Activists during the Trail of Broken Treaties," Digital Humanities Summit, March 2010, Lawrence, Kansas.
 
 "'Another Wounded Knee Was Feared': Visualizing Newspaper Narratives of the
 Trail of Broken Treaties Caravan and American Indian Activism with Digital
 Tools," 53rd Annual Missouri Valley History Conference, March 2010, Omaha,
 Nebraska.
 
-"Red Power and the Intellectual Origins of the American Indian Movement," 50th
-Annual Missouri Valley History Conference, March 2007, Omaha, Nebraska.
+"Red Power and the Intellectual Origins of the American Indian Movement," 50th Annual Missouri Valley History Conference, March 2007, Omaha, Nebraska.
 
 "Tangled Memories: Wounded Knee and the Problem of Memory," 41st Annual
 Northern Great Plains History Conference, October 2006, Sioux Falls, South
@@ -761,9 +766,13 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
 # Teaching
 
+**NEH Institute for Advanced Topics in the Digital Humanities**
+
+- Digital Methods for Military History (June 2021), George Mason University
+
 **Digital Humanities Summer Institute**
 
--   R, Interactive Graphics, and Data Visualization for the Humanities, with Lincoln Mullen (June 2016)
+- R, Interactive Graphics, and Data Visualization for the Humanities, with Lincoln Mullen (June 2016), University of Victoria.
 
 **University of Nebraska at Omaha (2017-2021)**
 
@@ -813,9 +822,7 @@ Research in the Humanities, University of Nebraska-Lincoln, October 2007.
 
 "Thomas Jefferson and the American West," guest lecture, University of Nebraska-Lincoln, HIST 201: U.S. History before 1877, Prof. Brenden Rensink, Fall 2010.
 
-"Empire of Liberty: Culture, Society, and Politics in the Early Republic," guest lecture, University of Nebraska-Lincoln, HIST 201: U.S.
-
-History before 1877, Prof. Brenden Rensink, Fall 2010.
+"Empire of Liberty: Culture, Society, and Politics in the Early Republic," guest lecture, University of Nebraska-Lincoln, HIST 201: U.S. History before 1877, Prof. Brenden Rensink, Fall 2010.
 
 "Show Indians and Buffalo Bill's Wild West," guest lecture, University of Nebraska-Lincoln, HIST 359: Mythic West, Prof. Douglas Seefeldt, Spring 2010.
 
@@ -903,9 +910,9 @@ Data science: tidyverse, ggplot, Plotly, Apache Spark
 
 Versioning: SVN, Git, GitHub, GitLab
 
-Web Frameworks/Content Management Systems: Drupal, WordPress, Jekyll, Omeka
+Web Frameworks/Content Management Systems: Vue, Hugo, Drupal, WordPress, Jekyll, Omeka
 
-Operating Systems: Linux, MacOS, Windows, VMS
+Operating Systems: Linux, macOS/iOS, Windows, VMS
 
 Database Systems/Persistence: MySQL, SQLite, Postgres
 
@@ -943,6 +950,8 @@ Digital Scholarship Committee, 2011--*present* (Committee chair, 2017--2020)
 
 *Alliance of Digital Humanities Organizations*
 
+DHTech Special Interest Group, 2021--*present*
+
 Program reviewer, Digital Humanities Conference 2018, ADHO Conference Coordinating Committee, Ottawa, Canada, 2020.
 
 Program reviewer, Digital Humanities Conference 2018, ADHO Conference Coordinating Committee, Utrecht, Netherlands, 2019.
@@ -974,6 +983,12 @@ Member, University Committee on Technology Resources, Services, and Planning, 20
 Member, Sustainability Curriculum Committee, 2019--2021.
 
 ### College Committees
+
+*George Mason University* 
+
+Member, R2 Studios Producer Search Committee, RRCHNM, 2021.
+
+Member, R2 Studios Studio Administrator Search Committee, RRCHNM, 2021.
 
 *University of Nebraska at Omaha*
 
@@ -1054,6 +1069,16 @@ Member, Publicity Committee, Third Annual James A. Rawley Conference in
 the Humanities, 2008--2009.
 
 ### University Service
+
+*George Mason University* 
+
+Member, Data Working Group, Roy Rosenzweig Center for History and New Media, 2021--*present*.
+
+Member, Spatial History Working Group, Roy Rosenzweig Center for History and New Media, 2021--*present*.
+
+Member, Digital Public History Working Group, Roy Rosenzweig Center for History and New Media, 2021--*present*.
+
+\vspace{.4cm}
 
 *University of Nebraska at Omaha*
 

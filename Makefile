@@ -16,14 +16,6 @@ jah-vita-short.pdf: jah-cv-short.tex web-cv-short.tex
 web-cv-short.tex: web-cv-short.md
 	pandoc $^ -o $@
 
-# Tech CV
-jah-vita-tech.pdf: jah-cv.tex web-cv-tech.tex
-	pdflatex jah-cv.tex
-	latexmk -c
-
-web-cv-tech.tex: web-cv-tech.md
-	pandoc $^ -o $@
-
 # Clean
 clean:
 	latexmk -c
