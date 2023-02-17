@@ -45,11 +45,12 @@ title: "Jason A. Heppler - CV"
 
 ### Major Affiliations and Fellowships
 
+<!--**Affiliate Fellow**, Center for Great Plains Studies, University of
+Nebraska-Lincoln, Lincoln, NE (2023--*present*)-->
+
 **Affiliate Scholar**, Connecting the Interstates, NEH ODH Planning Grant (2020--*present*)
 
 **Member**, Environmental History Action Collaborative Working Group, Environmental Data & Governance Initiative (2020--*present*)
-
-**External Affiliate**, Center for Spatial and Textual Analysis, Stanford University (2017--*present*)
 
 **Mentor**, Open Leadership Program, Mozilla Foundation (2018--2020)
 \vspace{0.2cm}
