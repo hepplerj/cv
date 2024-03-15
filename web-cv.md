@@ -9,7 +9,7 @@ title: "Jason A. Heppler - CV"
 
 \quad Senior Developer, Roy Rosenzweig Center for History and New Media, 2021--_present_
 
-\quad Adjunct Assistant Professor, Department of History and Art History, 2024--_present_
+\quad Adjunct Faculty, Department of History and Art History, 2024--_present_
 
 \vspace{.4cm}
 
@@ -265,7 +265,7 @@ the Modern Landscape," in _The Digital History Project_ (February 2008).
 
 # Invited Talks and Presentations
 
-<!--Keynote address, "," Institute for Digital Research in the Humanities (IDRH), University of Kansas, DATE.-->
+Keynote address, "Digital History and Communities in an Age of Surveillance," Institute for Digital Research in the Humanities (IDRH), University of Kansas, March 7, 2024.
 
 Public Historian Speaker Series, University of Montana, Missoula, Montana, April 4, 2023.
 
@@ -414,6 +414,8 @@ Panel chair, Third Annual James A. Rawley Conference in the Humanities, Universi
 "Sandoz's Environment: _Old Jules_ and 'The Vine'," roundtable, 5th Annual Mari Sandoz Heritage Society Conference, March 2008, Chadron, Nebraska.
 
 ### Working Groups/Workshops
+
+"Data Visualization for History," Institute for Digital Research in the Humanities (IDRH), University of Kansas, March 7, 2024.
 
 Attendee, IIIF 2023 Annual Conference, June 2023, Naples, Italy.
 
@@ -821,7 +823,7 @@ Readings in Digital History, University of Nebraska at Omaha, Christine Taylor, 
 
 # Computing Platforms and Digital Humanities
 
-Data analysis: R (programming language), D3.js (visualization), QGIS / ArcGIS (mapping)
+Data analysis: Python, R (programming language), D3.js (visualization), QGIS / ArcGIS (mapping)
 
 Programming languages: Go, R, Javascript, Python, Ruby, PHP, Unix shell scripts
 
@@ -829,7 +831,7 @@ Data science: pandas, tidyverse, ggplot, Plotly
 
 Versioning: Git, GitHub, GitLab, SVN
 
-Web Frameworks/Content Management Systems: Django, Vue, Hugo, Ruby on Rails, Omeka & Omeka S
+Web Frameworks/Content Management Systems: Django, Vue, Hugo, Omeka & Omeka S
 
 Operating Systems: Linux, macOS/iOS, Windows
 
