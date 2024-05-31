@@ -1,29 +1,14 @@
-all: jah-vita.pdf jah-vita-short.pdf
+default : jah-cv.pdf jah-cv-short.pdf
 
-# Full CV
-jah-vita.pdf: jah-cv.tex web-cv.tex
-	pdflatex jah-cv.tex
+jah-cv.pdf : jah-cv.tex
+	pdflatex -pdf $<
 	latexmk -c
 
-web-cv.tex: web-cv.md
-	pandoc $^ -o $@
-
-# Short CV
-jah-vita-short.pdf: jah-cv-short.tex web-cv-short.tex
-	pdflatex jah-cv-short.tex
+jah-cv-short.pdf : jah-cv-short.tex
+	pdflatex -pdf $<
 	latexmk -c
 
-web-cv-short.tex: web-cv-short.md
-	pandoc $^ -o $@
-
-# Clean
-clean:
-	latexmk -c
-	rm -f jah-cv.pdf
-	rm -f jah-cv-short.pdf
-
-# Deploy
-deploy:
+deploy : jah-cv.pdf
 	scp jah-cv.pdf jasonhep@jasonheppler.org:~/public_html/files/
 
-.PHONY : clean deploy
+.PHONY : clean deploy copy
